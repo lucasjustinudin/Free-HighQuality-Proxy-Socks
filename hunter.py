@@ -155,6 +155,12 @@ def main() -> None:
                 parts = m.group(1).split(".")
                 active_subnets.add(f"{parts[0]}.{parts[1]}.{parts[2]}")
 
+    # On CI, limit to 5 subnets to avoid timeout
+    is_ci = os.environ.get("CI", "").lower() in ("1", "true", "yes")
+    if is_ci and len(active_subnets) > 5:
+        active_subnets = set(list(active_subnets)[:5])
+        log(f"CI mode: limited to {len(active_subnets)} subnets")
+
     log(f"Found {len(active_subnets)} active subnets to scan")
 
     # queue all IP:port combos
