@@ -1,39 +1,42 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-115.231.181.40:8128,http,CN,transparent,644,,China Telecom,6.44
-111.196.61.19:10808,http,CN,elite,1469,,China Unicom Beijing Province Network,9.69
-44.193.16.245:8888,http,US,transparent,1159,,Amazon.com,11.59
-47.251.87.74:8081,http,US,elite,2037,,Alibaba Cloud LLC,15.37
-47.90.149.238:5060,http,US,elite,2107,,Alibaba.com LLC,16.07
-47.252.11.233:8181,http,US,elite,2111,,Alibaba Cloud LLC,16.11
-47.252.11.233:4145,http,US,elite,2116,,Alibaba Cloud LLC,16.16
-47.74.46.81:4002,http,JP,elite,2228,,Alibaba Cloud LLC,17.28
-8.221.141.88:8064,http,JP,elite,2230,,"Alibaba (US) Technology Co., Ltd.",17.3
-8.221.138.111:9200,http,JP,elite,2246,,"Alibaba (US) Technology Co., Ltd.",17.46
-42.96.18.62:1311,http,VN,transparent,1755,,Long Van System Solution,17.55
-8.211.42.167:8005,http,DE,elite,2280,,"Alibaba (US) Technology Co., Ltd.",17.8
-47.238.134.126:3129,http,HK,elite,2311,,Alibaba Cloud LLC,18.11
-47.237.107.41:55443,http,SG,elite,2366,,"Alibaba (US) Technology Co., Ltd.",18.66
-47.237.113.119:1000,http,SG,elite,2378,,"Alibaba (US) Technology Co., Ltd.",18.78
-47.250.155.254:8003,http,MY,elite,2379,,"Alibaba (US) Technology Co., Ltd.",18.79
-8.220.136.174:8080,http,PH,elite,2393,,"Alibaba (US) Technology Co., Ltd.",18.93
-47.116.181.146:3129,http,CN,elite,2402,,"Hangzhou Alibaba Advertising Co., Ltd.",19.02
-39.102.213.213:20,http,CN,elite,2405,,Hangzhou Alibaba Advertising Co,19.05
-47.121.182.88:8080,http,CN,elite,2415,,"Hangzhou Alibaba Advertising Co., Ltd.",19.15
-8.213.222.247:9091,http,TH,elite,2417,,"Alibaba (US) Technology Co., Ltd.",19.17
-39.102.208.189:8085,http,CN,elite,2419,,Hangzhou Alibaba Advertising Co,19.19
-8.212.151.166:8081,http,PH,elite,2423,,"Alibaba (US) Technology Co., Ltd.",19.23
-8.220.136.174:992,http,PH,elite,2423,,"Alibaba (US) Technology Co., Ltd.",19.23
-8.213.195.191:4006,http,TH,elite,2424,,Alibaba Cloud (Singapore) Private Limite,19.24
-8.148.23.202:3128,http,CN,elite,2425,,"Hangzhou Alibaba Advertising Co., Ltd.",19.25
-8.213.222.247:8081,http,TH,elite,2425,,"Alibaba (US) Technology Co., Ltd.",19.25
-8.212.165.164:9999,http,PH,elite,2427,,"Alibaba (US) Technology Co., Ltd.",19.27
-39.102.213.3:9091,http,CN,elite,2430,,Hangzhou Alibaba Advertising Co,19.3
-47.92.152.43:12000,http,CN,elite,2434,,Hangzhou Alibaba Advertising Co,19.34
-39.102.213.187:3128,http,CN,elite,2438,,Hangzhou Alibaba Advertising Co,19.38
-47.92.152.43:8118,http,CN,elite,2442,,Hangzhou Alibaba Advertising Co,19.42
-8.137.38.48:12000,http,CN,elite,2465,,"Hangzhou Alibaba Advertising Co., Ltd.",19.65
-114.215.127.92:9100,http,CN,elite,2467,,China Internet Network Information Cente,19.67
-120.25.189.254:8008,http,CN,elite,2471,,"Hangzhou Alibaba Advertising Co., Ltd.",19.71
-47.91.121.127:20,http,AE,elite,2480,,Alibaba Cloud LLC,19.8
-123.58.199.232:8168,http,VN,elite,2995,,UCLOUD INFORMATION TECHNOLOGY (HK) LIMIT,24.95
-168.197.182.222:8080,http,BR,transparent,2734,,Vision Connect Telecomunicaçoes Ltda Me,27.34
+34.246.183.20:12902,http,IE,elite,339,,Amazon Technologies Inc.,-1.61
+158.255.212.55:7839,http,AT,transparent,556,,EDIS GmbH,5.56
+220.128.223.136:8082,http,TW,anonymous,791,,"Chunghwa Telecom Co., Ltd.",5.91
+20.204.43.57:80,http,IN,transparent,616,,Microsoft Corporation,6.16
+197.221.240.247:80,http,ZW,anonymous,1001,,Telone PVT Ltd,8.01
+47.89.159.212:3129,http,US,elite,2070,,Alibaba.com LLC,15.7
+47.254.36.213:9098,http,US,elite,2079,,Alibaba Cloud LLC,15.79
+47.254.36.213:6379,http,US,elite,2080,,Alibaba Cloud LLC,15.8
+47.251.73.54:9898,http,US,elite,2082,,Alibaba Cloud LLC,15.82
+47.89.159.212:93,http,US,elite,2084,,Alibaba.com LLC,15.84
+8.211.200.183:1111,http,GB,elite,2207,,"Alibaba (US) Technology Co., Ltd.",17.07
+8.213.128.6:18081,http,KR,elite,2316,,"Alibaba (US) Technology Co., Ltd.",18.16
+47.238.128.246:4145,http,HK,elite,2359,,Alibaba Cloud LLC,18.59
+47.238.60.156:3129,http,HK,elite,2364,,Alibaba Cloud LLC,18.64
+47.237.113.119:1081,http,SG,elite,2396,,"Alibaba (US) Technology Co., Ltd.",18.96
+47.116.181.146:3129,http,CN,elite,2418,,"Hangzhou Alibaba Advertising Co., Ltd.",19.18
+8.212.165.164:5005,http,PH,elite,2421,,"Alibaba (US) Technology Co., Ltd.",19.21
+8.215.12.103:9797,http,ID,elite,2422,,Alibaba Cloud (Singapore) Private Limite,19.22
+8.212.151.166:9080,http,PH,elite,2425,,"Alibaba (US) Technology Co., Ltd.",19.25
+8.215.3.250:119,http,ID,elite,2426,,Alibaba Cloud (Singapore) Private Limite,19.26
+106.14.104.220:34567,http,CN,elite,2432,,Hangzhou Alibaba Advertising Co,19.32
+8.138.131.110:9080,http,CN,elite,2436,,"Hangzhou Alibaba Advertising Co., Ltd.",19.36
+8.213.215.187:3000,http,TH,elite,2442,,"Alibaba (US) Technology Co., Ltd.",19.42
+8.220.136.174:30001,http,PH,elite,2443,,"Alibaba (US) Technology Co., Ltd.",19.43
+47.119.19.221:80,http,CN,elite,2447,,Addresses CNNIC,19.47
+39.102.208.23:10002,http,CN,elite,2457,,Hangzhou Alibaba Advertising Co,19.57
+39.102.214.192:10000,http,CN,elite,2458,,Hangzhou Alibaba Advertising Co,19.58
+47.121.129.129:9080,http,CN,elite,2458,,"Hangzhou Alibaba Advertising Co., Ltd.",19.58
+39.102.213.187:3333,http,CN,elite,2464,,Hangzhou Alibaba Advertising Co,19.64
+8.148.22.214:3129,http,CN,elite,2465,,"Hangzhou Alibaba Advertising Co., Ltd.",19.65
+39.102.209.121:8008,http,CN,elite,2469,,Hangzhou Alibaba Advertising Co,19.69
+8.148.22.214:9080,http,CN,elite,2469,,"Hangzhou Alibaba Advertising Co., Ltd.",19.69
+39.104.16.201:8443,http,CN,elite,2475,,Hangzhou Alibaba Advertising Co,19.75
+39.104.59.56:3128,http,CN,elite,2475,,Hangzhou Alibaba Advertising Co,19.75
+39.102.208.23:9080,http,CN,elite,2477,,Hangzhou Alibaba Advertising Co,19.77
+47.109.83.196:8081,http,CN,elite,2482,,Hangzhou Alibaba Advertising Co,19.82
+8.148.24.225:3128,http,CN,elite,2482,,"Hangzhou Alibaba Advertising Co., Ltd.",19.82
+47.92.194.235:9999,http,CN,elite,2547,,Hangzhou Alibaba Advertising Co,20.47
+39.102.213.3:8443,http,CN,elite,2743,,Hangzhou Alibaba Advertising Co,22.43
+47.238.130.212:8888,http,HK,elite,2969,,Alibaba Cloud LLC,24.69
+2.59.43.253:22222,http,RU,transparent,2550,,"JSC ""TIMEWEB""",25.5
