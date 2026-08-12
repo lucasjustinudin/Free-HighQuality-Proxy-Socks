@@ -1,11 +1,16 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-47.250.51.110:9000,http,MY,elite,2454,,Alibaba Cloud LLC,19.54
-47.250.11.111:51,http,MY,elite,2473,,Alibaba Cloud LLC,19.73
-8.130.90.177:1081,http,CN,elite,2532,,"Hangzhou Alibaba Advertising Co., Ltd.",20.32
-47.92.219.102:80,http,CN,elite,2536,,Hangzhou Alibaba Advertising Co,20.36
-39.102.209.121:8888,http,CN,elite,2541,,Hangzhou Alibaba Advertising Co,20.41
-8.137.38.48:7890,http,CN,elite,2547,,"Hangzhou Alibaba Advertising Co., Ltd.",20.47
-101.200.158.109:8008,http,CN,elite,2551,,Hangzhou Alibaba Advertising Co,20.51
-39.104.27.89:8008,http,CN,elite,2556,,Hangzhou Alibaba Advertising Co,20.56
-47.91.110.148:9090,http,AE,elite,2585,,Alibaba Cloud LLC,20.85
-8.215.15.163:8080,http,ID,elite,2597,,"Alibaba (US) Technology Co., Ltd.",20.97
+106.14.104.220:8080,http,CN,elite,2409,,Hangzhou Alibaba Advertising Co,19.09
+39.102.210.222:10000,http,CN,elite,2438,,Hangzhou Alibaba Advertising Co,19.38
+39.102.213.187:20002,http,CN,elite,2444,,Hangzhou Alibaba Advertising Co,19.44
+47.92.152.43:3128,http,CN,elite,2446,,Hangzhou Alibaba Advertising Co,19.46
+39.104.23.154:8443,http,CN,elite,2447,,Hangzhou Alibaba Advertising Co,19.47
+8.130.71.75:9080,http,CN,elite,2450,,"Hangzhou Alibaba Advertising Co., Ltd.",19.5
+47.116.181.146:8081,http,CN,elite,2452,,"Hangzhou Alibaba Advertising Co., Ltd.",19.52
+39.102.208.23:80,http,CN,elite,2457,,Hangzhou Alibaba Advertising Co,19.57
+8.138.131.110:80,http,CN,elite,2458,,"Hangzhou Alibaba Advertising Co., Ltd.",19.58
+8.130.74.114:8888,http,CN,elite,2463,,"Hangzhou Alibaba Advertising Co., Ltd.",19.63
+8.137.38.48:9098,http,CN,elite,2464,,"Hangzhou Alibaba Advertising Co., Ltd.",19.64
+47.121.129.129:8443,http,CN,elite,2468,,"Hangzhou Alibaba Advertising Co., Ltd.",19.68
+120.26.104.146:3128,http,CN,elite,2476,,"Hangzhou Alibaba Advertising Co., Ltd.",19.76
+47.91.115.179:9080,http,AE,elite,2486,,Alibaba Cloud LLC,19.86
+47.91.120.190:8443,http,AE,elite,2489,,Alibaba Cloud LLC,19.89
