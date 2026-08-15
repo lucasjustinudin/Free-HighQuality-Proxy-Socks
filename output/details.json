@@ -1,133 +1,120 @@
 {
-  "updated_at": "2026-08-15T18:30:00.247822+00:00",
+  "updated_at": "2026-08-15T20:22:26.616402+00:00",
   "checked": 2000,
-  "alive": 52,
+  "alive": 49,
   "protocols": {
-    "http": 36
+    "http": 41
   },
-  "countries": 11,
-  "avg_latency_ms": 2342,
+  "countries": 13,
+  "avg_latency_ms": 2188,
   "avg_speed_kbs": 0,
   "proxies": [
     {
-      "proxy": "8.211.194.199:80",
+      "proxy": "63.179.134.206:3128",
       "proto": "http",
-      "country": "GB",
+      "country": "DE",
       "anonymity": "elite",
-      "latency_ms": 277,
+      "latency_ms": 375,
       "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": -2.23,
-      "source": "hunter"
+      "isp": "Amazon.com",
+      "score": -1.25
     },
     {
-      "proxy": "39.102.211.149:80",
+      "proxy": "91.202.185.69:80",
+      "proto": "http",
+      "country": "RU",
+      "anonymity": "elite",
+      "latency_ms": 496,
+      "speed_kbs": null,
+      "isp": "Globalcom Ltd.",
+      "score": -0.04
+    },
+    {
+      "proxy": "31.10.83.158:8080",
+      "proto": "http",
+      "country": "RU",
+      "anonymity": "elite",
+      "latency_ms": 505,
+      "speed_kbs": null,
+      "isp": "CJSC \"AVIEL\"",
+      "score": 0.05
+    },
+    {
+      "proxy": "8.130.71.83:8080",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 392,
+      "latency_ms": 533,
       "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": -1.08,
+      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
+      "score": 0.33,
       "source": "hunter"
     },
     {
-      "proxy": "39.102.211.210:8080",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 398,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": -1.02,
-      "source": "hunter"
-    },
-    {
-      "proxy": "47.251.73.54:9898",
-      "proto": "http",
-      "country": "US",
-      "anonymity": "elite",
-      "latency_ms": 2051,
-      "speed_kbs": null,
-      "isp": "Alibaba Cloud LLC",
-      "score": 15.51
-    },
-    {
-      "proxy": "47.252.11.233:9080",
-      "proto": "http",
-      "country": "US",
-      "anonymity": "elite",
-      "latency_ms": 2134,
-      "speed_kbs": null,
-      "isp": "Alibaba Cloud LLC",
-      "score": 16.34
-    },
-    {
-      "proxy": "47.90.167.27:443",
-      "proto": "http",
-      "country": "US",
-      "anonymity": "elite",
-      "latency_ms": 2137,
-      "speed_kbs": null,
-      "isp": "Alibaba.com LLC",
-      "score": 16.37
-    },
-    {
-      "proxy": "47.90.167.27:8123",
-      "proto": "http",
-      "country": "US",
-      "anonymity": "elite",
-      "latency_ms": 2140,
-      "speed_kbs": null,
-      "isp": "Alibaba.com LLC",
-      "score": 16.4
-    },
-    {
-      "proxy": "47.89.159.212:993",
-      "proto": "http",
-      "country": "US",
-      "anonymity": "elite",
-      "latency_ms": 2267,
-      "speed_kbs": null,
-      "isp": "Alibaba.com LLC",
-      "score": 17.67
-    },
-    {
-      "proxy": "8.211.194.85:8080",
-      "proto": "http",
-      "country": "GB",
-      "anonymity": "elite",
-      "latency_ms": 2279,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 17.79,
-      "source": "hunter"
-    },
-    {
-      "proxy": "8.211.194.85:80",
-      "proto": "http",
-      "country": "GB",
-      "anonymity": "elite",
-      "latency_ms": 2282,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 17.82,
-      "source": "hunter"
-    },
-    {
-      "proxy": "47.238.130.212:8004",
+      "proxy": "43.99.100.108:3128",
       "proto": "http",
       "country": "HK",
       "anonymity": "elite",
-      "latency_ms": 2282,
+      "latency_ms": 1010,
       "speed_kbs": null,
-      "isp": "Alibaba Cloud LLC",
-      "score": 17.82
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 5.1
     },
     {
-      "proxy": "8.211.194.85:9098",
+      "proxy": "115.231.181.40:8128",
       "proto": "http",
-      "country": "GB",
+      "country": "CN",
+      "anonymity": "transparent",
+      "latency_ms": 739,
+      "speed_kbs": null,
+      "isp": "China Telecom",
+      "score": 7.39
+    },
+    {
+      "proxy": "103.187.162.75:8085",
+      "proto": "http",
+      "country": "ID",
+      "anonymity": "transparent",
+      "latency_ms": 1238,
+      "speed_kbs": null,
+      "isp": "PT Misqot Sejahtera Indonesia",
+      "score": 12.38
+    },
+    {
+      "proxy": "95.211.64.139:8887",
+      "proto": "http",
+      "country": "NL",
+      "anonymity": "transparent",
+      "latency_ms": 1315,
+      "speed_kbs": null,
+      "isp": "LeaseWeb Netherlands B.V.",
+      "score": 13.15
+    },
+    {
+      "proxy": "47.252.11.233:82",
+      "proto": "http",
+      "country": "US",
+      "anonymity": "elite",
+      "latency_ms": 2029,
+      "speed_kbs": null,
+      "isp": "Alibaba Cloud LLC",
+      "score": 15.29
+    },
+    {
+      "proxy": "95.211.64.139:8888",
+      "proto": "http",
+      "country": "NL",
+      "anonymity": "transparent",
+      "latency_ms": 1645,
+      "speed_kbs": null,
+      "isp": "LeaseWeb Netherlands B.V.",
+      "score": 16.45,
+      "source": "hunter"
+    },
+    {
+      "proxy": "8.211.42.167:1081",
+      "proto": "http",
+      "country": "DE",
       "anonymity": "elite",
       "latency_ms": 2286,
       "speed_kbs": null,
@@ -135,416 +122,391 @@
       "score": 17.86
     },
     {
-      "proxy": "8.211.195.139:8001",
-      "proto": "http",
-      "country": "GB",
-      "anonymity": "elite",
-      "latency_ms": 2300,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.0
-    },
-    {
-      "proxy": "47.91.89.3:4145",
+      "proxy": "8.211.49.86:1081",
       "proto": "http",
       "country": "DE",
       "anonymity": "elite",
-      "latency_ms": 2306,
-      "speed_kbs": null,
-      "isp": "Alibaba.com LLC",
-      "score": 18.06
-    },
-    {
-      "proxy": "47.237.92.86:8080",
-      "proto": "http",
-      "country": "SG",
-      "anonymity": "elite",
-      "latency_ms": 2326,
+      "latency_ms": 2288,
       "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.26,
-      "source": "hunter"
+      "score": 17.88
     },
     {
-      "proxy": "47.91.89.3:20",
+      "proxy": "47.74.46.81:9080",
       "proto": "http",
-      "country": "DE",
+      "country": "JP",
       "anonymity": "elite",
-      "latency_ms": 2327,
+      "latency_ms": 2322,
       "speed_kbs": null,
-      "isp": "Alibaba.com LLC",
-      "score": 18.27
+      "isp": "Alibaba Cloud LLC",
+      "score": 18.22
     },
     {
-      "proxy": "47.237.92.86:80",
+      "proxy": "8.221.139.222:6379",
       "proto": "http",
-      "country": "SG",
+      "country": "JP",
       "anonymity": "elite",
-      "latency_ms": 2328,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.28,
-      "source": "hunter"
-    },
-    {
-      "proxy": "47.237.92.86:10",
-      "proto": "http",
-      "country": "SG",
-      "anonymity": "elite",
-      "latency_ms": 2336,
+      "latency_ms": 2325,
       "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.36
+      "score": 18.25
     },
     {
-      "proxy": "47.250.155.254:14",
+      "proxy": "8.213.134.213:443",
       "proto": "http",
-      "country": "MY",
+      "country": "KR",
       "anonymity": "elite",
-      "latency_ms": 2339,
+      "latency_ms": 2361,
       "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.39
+      "score": 18.61
     },
     {
-      "proxy": "8.220.136.174:80",
+      "proxy": "47.91.109.17:1080",
       "proto": "http",
-      "country": "PH",
-      "anonymity": "elite",
-      "latency_ms": 2349,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.49
-    },
-    {
-      "proxy": "8.212.165.164:80",
-      "proto": "http",
-      "country": "PH",
-      "anonymity": "elite",
-      "latency_ms": 2353,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.53,
-      "source": "hunter"
-    },
-    {
-      "proxy": "8.215.3.250:8443",
-      "proto": "http",
-      "country": "ID",
-      "anonymity": "elite",
-      "latency_ms": 2354,
-      "speed_kbs": null,
-      "isp": "Alibaba Cloud (Singapore) Private Limite",
-      "score": 18.54
-    },
-    {
-      "proxy": "8.215.12.103:8001",
-      "proto": "http",
-      "country": "ID",
-      "anonymity": "elite",
-      "latency_ms": 2356,
-      "speed_kbs": null,
-      "isp": "Alibaba Cloud (Singapore) Private Limite",
-      "score": 18.56
-    },
-    {
-      "proxy": "139.196.175.68:8118",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2363,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.63
-    },
-    {
-      "proxy": "8.211.195.173:8008",
-      "proto": "http",
-      "country": "GB",
-      "anonymity": "elite",
-      "latency_ms": 2363,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.63
-    },
-    {
-      "proxy": "47.119.22.92:9098",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2368,
-      "speed_kbs": null,
-      "isp": "Addresses CNNIC",
-      "score": 18.68
-    },
-    {
-      "proxy": "47.100.130.127:3128",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2369,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co",
-      "score": 18.69
-    },
-    {
-      "proxy": "120.26.104.146:9080",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2372,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
-      "score": 18.72
-    },
-    {
-      "proxy": "121.43.154.123:14",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2375,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
-      "score": 18.75
-    },
-    {
-      "proxy": "8.213.222.157:5060",
-      "proto": "http",
-      "country": "TH",
-      "anonymity": "elite",
-      "latency_ms": 2376,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.76
-    },
-    {
-      "proxy": "47.121.129.129:6379",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2378,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
-      "score": 18.78
-    },
-    {
-      "proxy": "39.102.211.162:8080",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2380,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.8,
-      "source": "hunter"
-    },
-    {
-      "proxy": "8.213.222.157:80",
-      "proto": "http",
-      "country": "TH",
-      "anonymity": "elite",
-      "latency_ms": 2380,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.8,
-      "source": "hunter"
-    },
-    {
-      "proxy": "8.213.222.157:8080",
-      "proto": "http",
-      "country": "TH",
+      "country": "AE",
       "anonymity": "elite",
       "latency_ms": 2381,
       "speed_kbs": null,
+      "isp": "Alibaba Cloud LLC",
+      "score": 18.81
+    },
+    {
+      "proxy": "47.251.73.54:8118",
+      "proto": "http",
+      "country": "US",
+      "anonymity": "elite",
+      "latency_ms": 2397,
+      "speed_kbs": null,
+      "isp": "Alibaba Cloud LLC",
+      "score": 18.97
+    },
+    {
+      "proxy": "47.238.134.126:9098",
+      "proto": "http",
+      "country": "HK",
+      "anonymity": "elite",
+      "latency_ms": 2405,
+      "speed_kbs": null,
+      "isp": "Alibaba Cloud LLC",
+      "score": 19.05
+    },
+    {
+      "proxy": "8.210.17.35:1311",
+      "proto": "http",
+      "country": "HK",
+      "anonymity": "elite",
+      "latency_ms": 2407,
+      "speed_kbs": null,
+      "isp": "Alibaba.com LLC",
+      "score": 19.07
+    },
+    {
+      "proxy": "47.238.128.246:8090",
+      "proto": "http",
+      "country": "HK",
+      "anonymity": "elite",
+      "latency_ms": 2415,
+      "speed_kbs": null,
+      "isp": "Alibaba Cloud LLC",
+      "score": 19.15
+    },
+    {
+      "proxy": "47.237.113.119:1720",
+      "proto": "http",
+      "country": "SG",
+      "anonymity": "elite",
+      "latency_ms": 2461,
+      "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.81,
+      "score": 19.61
+    },
+    {
+      "proxy": "8.219.229.53:80",
+      "proto": "http",
+      "country": "SG",
+      "anonymity": "elite",
+      "latency_ms": 2467,
+      "speed_kbs": null,
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 19.67,
       "source": "hunter"
     },
     {
-      "proxy": "121.43.154.123:80",
+      "proxy": "8.219.229.53:1080",
+      "proto": "http",
+      "country": "SG",
+      "anonymity": "elite",
+      "latency_ms": 2471,
+      "speed_kbs": null,
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 19.71,
+      "source": "hunter"
+    },
+    {
+      "proxy": "8.219.229.53:111",
+      "proto": "http",
+      "country": "SG",
+      "anonymity": "elite",
+      "latency_ms": 2475,
+      "speed_kbs": null,
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 19.75
+    },
+    {
+      "proxy": "8.212.168.170:80",
+      "proto": "http",
+      "country": "PH",
+      "anonymity": "elite",
+      "latency_ms": 2477,
+      "speed_kbs": null,
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 19.77,
+      "source": "hunter"
+    },
+    {
+      "proxy": "8.138.133.207:8008",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2382,
+      "latency_ms": 2484,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
-      "score": 18.82
+      "score": 19.84
     },
     {
-      "proxy": "8.212.165.164:37",
+      "proxy": "47.116.181.146:1088",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2486,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
+      "score": 19.86
+    },
+    {
+      "proxy": "8.212.168.170:1080",
       "proto": "http",
       "country": "PH",
       "anonymity": "elite",
-      "latency_ms": 2385,
+      "latency_ms": 2486,
       "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.85
+      "score": 19.86
     },
     {
-      "proxy": "47.104.198.111:1234",
+      "proxy": "47.106.75.125:3128",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2386,
+      "latency_ms": 2503,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.86
+      "score": 20.03
     },
     {
-      "proxy": "39.102.213.187:1111",
+      "proxy": "47.106.75.125:8181",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2393,
+      "latency_ms": 2508,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.93
+      "score": 20.08
     },
     {
-      "proxy": "8.212.165.164:8080",
+      "proxy": "120.26.52.35:80",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2513,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
+      "score": 20.13
+    },
+    {
+      "proxy": "8.212.168.170:8080",
       "proto": "http",
       "country": "PH",
       "anonymity": "elite",
-      "latency_ms": 2395,
+      "latency_ms": 2515,
       "speed_kbs": null,
       "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 18.95,
+      "score": 20.15,
       "source": "hunter"
     },
     {
-      "proxy": "39.102.211.162:4145",
+      "proxy": "39.102.208.189:8081",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2398,
+      "latency_ms": 2519,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.98
+      "score": 20.19
     },
     {
-      "proxy": "39.102.211.162:80",
+      "proxy": "39.102.208.189:8080",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2399,
+      "latency_ms": 2519,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 18.99,
-      "source": "hunter"
+      "score": 20.19
     },
     {
-      "proxy": "8.213.215.187:8889",
+      "proxy": "106.14.91.83:9098",
       "proto": "http",
-      "country": "TH",
+      "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2409,
+      "latency_ms": 2523,
       "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 19.09
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.23
+    },
+    {
+      "proxy": "39.102.213.3:80",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2524,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.24
+    },
+    {
+      "proxy": "39.102.211.64:5060",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2525,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.25
+    },
+    {
+      "proxy": "39.100.88.89:34567",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2527,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.27
     },
     {
       "proxy": "39.102.211.64:8081",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2416,
+      "latency_ms": 2529,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 19.16
+      "score": 20.29
     },
     {
-      "proxy": "8.213.222.247:81",
-      "proto": "http",
-      "country": "TH",
-      "anonymity": "elite",
-      "latency_ms": 2421,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 19.21
-    },
-    {
-      "proxy": "47.108.159.113:8443",
+      "proxy": "8.130.71.75:80",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2422,
-      "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 19.22
-    },
-    {
-      "proxy": "8.137.62.53:9080",
-      "proto": "http",
-      "country": "CN",
-      "anonymity": "elite",
-      "latency_ms": 2444,
+      "latency_ms": 2530,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
-      "score": 19.44
-    },
-    {
-      "proxy": "8.213.222.247:80",
-      "proto": "http",
-      "country": "TH",
-      "anonymity": "elite",
-      "latency_ms": 2445,
-      "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 19.45,
+      "score": 20.3,
       "source": "hunter"
     },
     {
-      "proxy": "47.91.121.127:8443",
+      "proxy": "39.102.213.213:8008",
       "proto": "http",
-      "country": "AE",
+      "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2446,
+      "latency_ms": 2531,
       "speed_kbs": null,
-      "isp": "Alibaba Cloud LLC",
-      "score": 19.46
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.31
     },
     {
-      "proxy": "47.91.109.17:1000",
+      "proxy": "39.102.213.213:8443",
       "proto": "http",
-      "country": "AE",
+      "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2449,
+      "latency_ms": 2534,
       "speed_kbs": null,
-      "isp": "Alibaba Cloud LLC",
-      "score": 19.49
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.34
     },
     {
-      "proxy": "8.213.222.247:8000",
+      "proxy": "39.104.69.76:9080",
       "proto": "http",
-      "country": "TH",
+      "country": "CN",
       "anonymity": "elite",
-      "latency_ms": 2451,
+      "latency_ms": 2537,
       "speed_kbs": null,
-      "isp": "Alibaba (US) Technology Co., Ltd.",
-      "score": 19.51
+      "isp": "Hangzhou Alibaba Advertising Co",
+      "score": 20.37
     },
     {
-      "proxy": "39.102.211.64:8080",
+      "proxy": "8.130.71.75:11",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2540,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
+      "score": 20.4
+    },
+    {
+      "proxy": "8.130.71.75:8080",
+      "proto": "http",
+      "country": "CN",
+      "anonymity": "elite",
+      "latency_ms": 2541,
+      "speed_kbs": null,
+      "isp": "Hangzhou Alibaba Advertising Co., Ltd.",
+      "score": 20.41,
+      "source": "hunter"
+    },
+    {
+      "proxy": "47.109.83.196:9098",
       "proto": "http",
       "country": "CN",
       "anonymity": "elite",
       "latency_ms": 2550,
       "speed_kbs": null,
       "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 20.5,
-      "source": "hunter"
+      "score": 20.5
     },
     {
-      "proxy": "39.102.211.64:80",
+      "proxy": "8.213.197.208:8118",
       "proto": "http",
-      "country": "CN",
+      "country": "TH",
       "anonymity": "elite",
-      "latency_ms": 2564,
+      "latency_ms": 2551,
       "speed_kbs": null,
-      "isp": "Hangzhou Alibaba Advertising Co",
-      "score": 20.64,
-      "source": "hunter"
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 20.51
+    },
+    {
+      "proxy": "8.213.195.191:8443",
+      "proto": "http",
+      "country": "TH",
+      "anonymity": "elite",
+      "latency_ms": 2675,
+      "speed_kbs": null,
+      "isp": "Alibaba Cloud (Singapore) Private Limite",
+      "score": 21.75
+    },
+    {
+      "proxy": "8.213.222.247:77",
+      "proto": "http",
+      "country": "TH",
+      "anonymity": "elite",
+      "latency_ms": 2925,
+      "speed_kbs": null,
+      "isp": "Alibaba (US) Technology Co., Ltd.",
+      "score": 24.25
     }
   ],
-  "hunter_found": 19
+  "hunter_found": 9
 }
