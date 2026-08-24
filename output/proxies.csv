@@ -1,15 +1,18 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-162.214.74.29:8085,http,US,elite,244,,Unified Layer,-2.56
-94.78.67.171:80,http,CY,elite,286,,Netonline Bilisim Sirketi LTD,-2.14
-212.127.95.235:8081,http,PL,elite,439,,Korbank S.A,-0.61
-160.238.65.6:3128,http,NL,transparent,437,,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,4.37
-115.127.31.66:8080,http,BD,elite,980,,BRACNet Limited,4.8
-43.229.254.221:8181,http,ID,transparent,1233,,PT. Media Antar Nusa,12.33
-8.211.200.183:8081,http,GB,elite,2210,,"Alibaba (US) Technology Co., Ltd.",17.1
-8.220.205.172:80,http,KR,elite,2375,,"Alibaba (US) Technology Co., Ltd.",18.75
-8.138.131.110:3129,http,CN,elite,2494,,"Hangzhou Alibaba Advertising Co., Ltd.",19.94
-47.107.166.143:3129,http,CN,elite,2500,,Hangzhou Alibaba Advertising Co,20.0
-39.104.69.76:3128,http,CN,elite,2525,,Hangzhou Alibaba Advertising Co,20.25
-47.109.83.196:45554,http,CN,elite,2553,,Hangzhou Alibaba Advertising Co,20.53
-80.74.54.148:3128,http,DE,anonymous,2408,,Deutsche Glasfaser Wholesale GmbH,22.08
-103.158.210.24:8090,http,ID,transparent,2373,,DIGITNET,23.73
+3.99.158.157:23526,http,CA,elite,93,,Amazon Technologies Inc.,-4.07
+15.160.116.17:80,http,IT,elite,407,,Amazon Technologies Inc,-0.93
+112.118.187.149:8080,http,HK,elite,899,,Hong Kong Telecommunications (HKT) Limit,3.99
+114.236.137.41:21000,http,CN,transparent,778,,Chinanet,7.78
+101.251.204.174:8080,http,CN,transparent,975,,"IDC, China Telecommunications Corporatio",9.75
+38.191.194.44:999,http,CO,transparent,1813,,TV&MÁS S.A.S,18.13
+8.138.131.110:80,http,CN,elite,2488,,"Hangzhou Alibaba Advertising Co., Ltd.",19.88
+47.116.126.57:8443,http,CN,elite,2492,,"Hangzhou Alibaba Advertising Co., Ltd.",19.92
+47.119.19.221:8085,http,CN,elite,2494,,Addresses CNNIC,19.94
+39.102.213.50:3333,http,CN,elite,2506,,Hangzhou Alibaba Advertising Co,20.06
+8.148.24.225:9080,http,CN,elite,2512,,"Hangzhou Alibaba Advertising Co., Ltd.",20.12
+39.104.57.33:3128,http,CN,elite,2529,,Hangzhou Alibaba Advertising Co,20.29
+47.92.82.167:80,http,CN,elite,2535,,Hangzhou Alibaba Advertising Co,20.35
+47.92.219.102:1080,http,CN,elite,2541,,Hangzhou Alibaba Advertising Co,20.41
+47.108.159.113:8080,http,CN,elite,2542,,Hangzhou Alibaba Advertising Co,20.42
+47.109.110.100:8008,http,CN,elite,2543,,Hangzhou Alibaba Advertising Co,20.43
+185.174.208.195:8080,http,XK,transparent,2738,,Podujeve-Broadband,27.38
