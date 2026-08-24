@@ -1,29 +1,15 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-34.246.183.20:34558,http,IE,elite,343,,Amazon Technologies Inc.,-1.57
-13.38.217.179:10152,http,FR,elite,394,,Amazon Technologies Inc.,-1.06
-185.135.69.34:80,http,IQ,elite,441,,Giganet Telecom,-0.59
-51.49.153.183:3364,http,ES,elite,520,,"Amazon.com, Inc.",0.2
-43.199.29.225:8080,http,HK,elite,793,,"Amazon.com, Inc.",2.93
-45.183.11.194:8080,http,BR,transparent,520,,V1 Informática,5.2
-201.71.2.25:999,http,VE,transparent,614,,"INVERSIONES FAROCA, C.A.",6.14
-187.251.224.167:8081,http,MX,transparent,905,,Total Play Telecomunicaciones SA De CV,9.05
-8.221.138.111:1081,http,JP,elite,2273,,"Alibaba (US) Technology Co., Ltd.",17.73
-8.221.138.111:8081,http,JP,elite,2276,,"Alibaba (US) Technology Co., Ltd.",17.76
-8.221.141.88:11,http,JP,elite,2282,,"Alibaba (US) Technology Co., Ltd.",17.82
-8.130.74.114:3129,http,CN,elite,2389,,"Hangzhou Alibaba Advertising Co., Ltd.",18.89
-39.104.16.201:18080,http,CN,elite,2395,,Hangzhou Alibaba Advertising Co,18.95
-39.104.16.201:8888,http,CN,elite,2397,,Hangzhou Alibaba Advertising Co,18.97
-47.108.159.113:8443,http,CN,elite,2418,,Hangzhou Alibaba Advertising Co,19.18
-47.108.159.113:18080,http,CN,elite,2419,,Hangzhou Alibaba Advertising Co,19.19
-8.137.13.191:8081,http,CN,elite,2419,,"Hangzhou Alibaba Advertising Co., Ltd.",19.19
-18.60.247.31:35765,http,IN,elite,2421,,"Amazon.com, Inc.",19.21
-47.116.181.146:1337,http,CN,elite,2439,,"Hangzhou Alibaba Advertising Co., Ltd.",19.39
-47.121.183.107:4006,http,CN,elite,2444,,"Hangzhou Alibaba Advertising Co., Ltd.",19.44
-47.109.110.100:8888,http,CN,elite,2461,,Hangzhou Alibaba Advertising Co,19.61
-47.121.133.212:80,http,CN,elite,2474,,"Hangzhou Alibaba Advertising Co., Ltd.",19.74
-47.121.182.88:8080,http,CN,elite,2508,,"Hangzhou Alibaba Advertising Co., Ltd.",20.08
-39.102.208.236:34567,http,CN,elite,2871,,Hangzhou Alibaba Advertising Co,23.71
-103.133.223.22:8080,http,ID,anonymous,2586,,PT Cloud Teknologi Nusantara,23.86
-39.102.208.149:8090,http,CN,elite,2933,,Hangzhou Alibaba Advertising Co,24.33
-79.137.78.133:8006,http,FR,elite,2950,,OVH SAS,24.5
-80.241.214.192:3128,http,FR,transparent,2475,,Contabo GmbH,24.75
+162.214.74.29:8085,http,US,elite,244,,Unified Layer,-2.56
+94.78.67.171:80,http,CY,elite,286,,Netonline Bilisim Sirketi LTD,-2.14
+212.127.95.235:8081,http,PL,elite,439,,Korbank S.A,-0.61
+160.238.65.6:3128,http,NL,transparent,437,,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,4.37
+115.127.31.66:8080,http,BD,elite,980,,BRACNet Limited,4.8
+43.229.254.221:8181,http,ID,transparent,1233,,PT. Media Antar Nusa,12.33
+8.211.200.183:8081,http,GB,elite,2210,,"Alibaba (US) Technology Co., Ltd.",17.1
+8.220.205.172:80,http,KR,elite,2375,,"Alibaba (US) Technology Co., Ltd.",18.75
+8.138.131.110:3129,http,CN,elite,2494,,"Hangzhou Alibaba Advertising Co., Ltd.",19.94
+47.107.166.143:3129,http,CN,elite,2500,,Hangzhou Alibaba Advertising Co,20.0
+39.104.69.76:3128,http,CN,elite,2525,,Hangzhou Alibaba Advertising Co,20.25
+47.109.83.196:45554,http,CN,elite,2553,,Hangzhou Alibaba Advertising Co,20.53
+80.74.54.148:3128,http,DE,anonymous,2408,,Deutsche Glasfaser Wholesale GmbH,22.08
+103.158.210.24:8090,http,ID,transparent,2373,,DIGITNET,23.73
