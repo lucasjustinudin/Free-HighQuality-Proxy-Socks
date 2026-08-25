@@ -1,16 +1,13 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-47.91.65.12:80,http,DE,elite,294,,Alibaba.com LLC,-2.06
-162.214.159.94:8085,http,US,elite,308,,Unified Layer,-1.92
-204.76.203.9:3128,http,NL,elite,385,,Pfcloud UG,-1.15
-218.252.100.222:80,http,HK,elite,733,,Hong Kong Cable Television Limited,2.33
-67.43.112.129:8080,http,US,transparent,936,,"Wisper ISP, Inc.",9.36
-8.138.133.207:80,http,CN,elite,2338,,"Hangzhou Alibaba Advertising Co., Ltd.",18.38
-47.121.129.129:3128,http,CN,elite,2341,,"Hangzhou Alibaba Advertising Co., Ltd.",18.41
-47.121.133.212:80,http,CN,elite,2342,,"Hangzhou Alibaba Advertising Co., Ltd.",18.42
-47.121.182.36:1088,http,CN,elite,2361,,"Hangzhou Alibaba Advertising Co., Ltd.",18.61
-139.196.175.68:8888,http,CN,elite,2362,,Hangzhou Alibaba Advertising Co,18.62
-47.91.29.151:4002,http,JP,elite,2622,,Alibaba.com LLC,21.22
-160.238.65.4:3128,http,NL,transparent,2143,,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,21.43
-39.100.88.89:80,http,CN,elite,2869,,Hangzhou Alibaba Advertising Co,23.69
-223.25.110.250:8088,http,ID,transparent,2556,,SinergiNet,25.56
-188.119.98.126:9999,http,CZ,transparent,2762,,"O2 Czech Republic, a.s.",27.62
+141.98.153.86:80,http,DE,elite,414,,Contabo GmbH,-0.86
+131.108.232.201:8080,http,HN,elite,520,,Asociacion De Servicio De Internet S. De,0.2
+109.95.220.45:8080,http,RU,elite,584,,Limited Liability Company Sviaz Industri,0.84
+51.34.28.236:421,http,CH,elite,831,,"Amazon.com, Inc.",3.31
+139.196.95.28:7890,http,CN,elite,844,,China Internet Network Information Cente,3.44
+101.132.249.207:6588,http,CN,elite,2340,,Hangzhou Alibaba Advertising Co,18.4
+120.26.52.35:808,http,CN,elite,2349,,"Hangzhou Alibaba Advertising Co., Ltd.",18.49
+120.26.52.35:8080,http,CN,elite,2369,,"Hangzhou Alibaba Advertising Co., Ltd.",18.69
+47.119.164.33:8080,http,CN,elite,2395,,Addresses CNNIC,18.95
+39.104.16.201:9080,http,CN,elite,2494,,Hangzhou Alibaba Advertising Co,19.94
+39.100.88.89:3128,http,CN,elite,2517,,Hangzhou Alibaba Advertising Co,20.17
+124.158.190.26:80,http,ID,transparent,2970,,PT Jala Lintas Media,29.7
