@@ -1,9 +1,14 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-18.170.25.193:9050,http,GB,elite,432,,Amazon Technologies Inc.,-0.68
-159.69.45.217:1085,http,DE,transparent,644,,Hetzner Online GmbH,6.44
-47.112.11.170:9000,http,CN,elite,2449,,Addresses CNNIC,19.49
-47.99.112.148:3128,http,CN,elite,2456,,Aliyun Computing Co,19.56
-47.104.27.249:8001,http,CN,elite,2462,,Hangzhou Alibaba Advertising Co,19.62
-39.104.57.33:80,http,CN,elite,2467,,Hangzhou Alibaba Advertising Co,19.67
-47.92.219.102:8888,http,CN,elite,2472,,Hangzhou Alibaba Advertising Co,19.72
-47.109.110.100:9098,http,CN,elite,2531,,Hangzhou Alibaba Advertising Co,20.31
+54.188.236.206:17155,http,US,elite,371,,"Amazon.com, Inc.",-1.29
+82.102.11.164:3460,http,GB,elite,388,,Redstation Limited,-1.12
+12.50.107.221:80,http,US,anonymous,352,,"AT&T Enterprises, LLC",1.52
+141.98.153.86:80,http,DE,elite,705,,Contabo GmbH,2.05
+112.64.135.45:8080,http,CN,elite,1121,,China Unicom CHINA169 Shanghai Province ,6.21
+218.252.192.228:80,http,HK,elite,1431,,Hong Kong Cable Television Limited,9.31
+101.66.199.144:8085,http,CN,elite,1483,,China Unicom Zhejiang Province Network,9.83
+101.66.198.61:8085,http,CN,elite,2132,,China Unicom Zhejiang Province Network,16.32
+47.112.19.200:80,http,CN,elite,2489,,Addresses CNNIC,19.89
+47.105.122.72:800,http,CN,elite,2521,,Hangzhou Alibaba Advertising Co,20.21
+8.130.90.177:8000,http,CN,elite,2537,,"Hangzhou Alibaba Advertising Co., Ltd.",20.37
+8.137.62.53:8443,http,CN,elite,2543,,"Hangzhou Alibaba Advertising Co., Ltd.",20.43
+120.25.189.254:8008,http,CN,elite,2814,,"Hangzhou Alibaba Advertising Co., Ltd.",23.14
