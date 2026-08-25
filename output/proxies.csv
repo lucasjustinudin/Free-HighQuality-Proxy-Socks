@@ -1,21 +1,16 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-34.83.88.197:80,http,US,elite,80,,Google LLC,-4.2
-23.228.86.236:8081,http,US,transparent,151,,Vault Host,1.51
-3.110.68.130:8880,http,IN,elite,1005,,Amazon Technologies Inc.,5.05
-185.191.239.248:3128,http,CH,transparent,681,,Geronimo Ramirez Computer Network,6.81
-91.107.188.68:8083,http,DE,elite,1890,,Hetzner Online AG,13.9
-8.211.49.86:9050,http,DE,elite,2271,,"Alibaba (US) Technology Co., Ltd.",17.71
-8.213.128.6:6789,http,KR,elite,2392,,"Alibaba (US) Technology Co., Ltd.",18.92
-120.26.171.55:25125,http,CN,transparent,1902,,"Hangzhou Alibaba Advertising Co., Ltd.",19.02
-120.25.189.254:9000,http,CN,elite,2407,,"Hangzhou Alibaba Advertising Co., Ltd.",19.07
-8.213.128.6:9000,http,KR,elite,2408,,"Alibaba (US) Technology Co., Ltd.",19.08
-39.102.214.152:8081,http,CN,elite,2412,,Hangzhou Alibaba Advertising Co,19.12
-47.116.210.163:5060,http,CN,elite,2416,,"Hangzhou Alibaba Advertising Co., Ltd.",19.16
-39.102.211.64:8443,http,CN,elite,2422,,Hangzhou Alibaba Advertising Co,19.22
-47.105.122.72:3128,http,CN,elite,2427,,Hangzhou Alibaba Advertising Co,19.27
-47.121.183.107:9000,http,CN,elite,2430,,"Hangzhou Alibaba Advertising Co., Ltd.",19.3
-47.104.28.135:9080,http,CN,elite,2433,,Hangzhou Alibaba Advertising Co,19.33
-39.104.27.89:30001,http,CN,elite,2439,,Hangzhou Alibaba Advertising Co,19.39
-39.102.214.199:10002,http,CN,elite,2441,,Hangzhou Alibaba Advertising Co,19.41
-39.102.210.176:8888,http,CN,elite,2443,,Hangzhou Alibaba Advertising Co,19.43
-120.89.95.42:8080,http,ID,transparent,2882,,PT ATSINDO,28.82
+47.91.65.12:80,http,DE,elite,294,,Alibaba.com LLC,-2.06
+162.214.159.94:8085,http,US,elite,308,,Unified Layer,-1.92
+204.76.203.9:3128,http,NL,elite,385,,Pfcloud UG,-1.15
+218.252.100.222:80,http,HK,elite,733,,Hong Kong Cable Television Limited,2.33
+67.43.112.129:8080,http,US,transparent,936,,"Wisper ISP, Inc.",9.36
+8.138.133.207:80,http,CN,elite,2338,,"Hangzhou Alibaba Advertising Co., Ltd.",18.38
+47.121.129.129:3128,http,CN,elite,2341,,"Hangzhou Alibaba Advertising Co., Ltd.",18.41
+47.121.133.212:80,http,CN,elite,2342,,"Hangzhou Alibaba Advertising Co., Ltd.",18.42
+47.121.182.36:1088,http,CN,elite,2361,,"Hangzhou Alibaba Advertising Co., Ltd.",18.61
+139.196.175.68:8888,http,CN,elite,2362,,Hangzhou Alibaba Advertising Co,18.62
+47.91.29.151:4002,http,JP,elite,2622,,Alibaba.com LLC,21.22
+160.238.65.4:3128,http,NL,transparent,2143,,GZ REMITTANCE (CHINA) INDUSTRY LIMITED,21.43
+39.100.88.89:80,http,CN,elite,2869,,Hangzhou Alibaba Advertising Co,23.69
+223.25.110.250:8088,http,ID,transparent,2556,,SinergiNet,25.56
+188.119.98.126:9999,http,CZ,transparent,2762,,"O2 Czech Republic, a.s.",27.62
