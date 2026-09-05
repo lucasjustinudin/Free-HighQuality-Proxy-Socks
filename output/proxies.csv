@@ -1,12 +1,19 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-131.108.232.201:8080,http,HN,elite,265,,Asociacion De Servicio De Internet S. De,-2.35
-13.203.138.32:3001,http,IN,elite,683,,"Amazon.com, Inc.",1.83
-219.93.101.62:80,http,MY,anonymous,1016,,ADSL Streamyx Telekom Malaysia,8.16
-39.103.168.253:5980,http,CN,transparent,1004,,Hangzhou Alibaba Advertising Co,10.04
-103.43.191.71:8888,http,HK,elite,1930,,West263 International Limited,14.3
-117.50.194.130:7890,http,CN,elite,2466,,UCLOUD,19.66
-120.26.104.146:8008,http,CN,elite,2482,,"Hangzhou Alibaba Advertising Co., Ltd.",19.82
-8.148.4.166:20002,http,CN,elite,2487,,"Hangzhou Alibaba Advertising Co., Ltd.",19.87
-8.130.54.67:8004,http,CN,elite,2495,,"Hangzhou Alibaba Advertising Co., Ltd.",19.95
-8.137.38.48:39,http,CN,elite,2542,,"Hangzhou Alibaba Advertising Co., Ltd.",20.42
-182.253.42.232:2026,http,ID,elite,2993,,BIZNET,24.93
+180.167.238.98:7302,http,CN,elite,457,,China Telecom (Group),-0.43
+154.12.242.0:1080,http,US,elite,608,,Contabo Inc,1.08
+27.185.218.213:17981,http,CN,elite,990,,"Shijiazhuang IDC network, CHINANET Hebei",4.9
+8.213.128.6:55443,http,KR,elite,2333,,"Alibaba (US) Technology Co., Ltd.",18.33
+47.121.182.88:9098,http,CN,elite,2468,,"Hangzhou Alibaba Advertising Co., Ltd.",19.68
+8.146.200.53:9080,http,CN,elite,2474,,"Hangzhou Alibaba Advertising Co., Ltd.",19.74
+47.121.129.129:80,http,CN,elite,2488,,"Hangzhou Alibaba Advertising Co., Ltd.",19.88
+47.104.27.249:4006,http,CN,elite,2495,,Hangzhou Alibaba Advertising Co,19.95
+8.130.37.235:3128,http,CN,elite,2498,,"Hangzhou Alibaba Advertising Co., Ltd.",19.98
+39.104.57.33:80,http,CN,elite,2502,,Hangzhou Alibaba Advertising Co,20.02
+39.104.23.154:80,http,CN,elite,2510,,Hangzhou Alibaba Advertising Co,20.1
+47.109.110.100:8081,http,CN,elite,2518,,Hangzhou Alibaba Advertising Co,20.18
+139.224.186.221:80,http,CN,elite,2530,,Addresses CNNIC,20.3
+47.92.82.167:9098,http,CN,elite,2571,,Hangzhou Alibaba Advertising Co,20.71
+199.203.152.99:8111,http,IL,anonymous,2318,,Cellcom Fixed Line Communication L.P,21.18
+167.233.169.253:1083,http,DE,transparent,2127,,Hetzner Online GmbH,21.27
+8.213.128.6:8889,http,KR,elite,2699,,"Alibaba (US) Technology Co., Ltd.",21.99
+39.102.214.208:9080,http,CN,elite,2977,,Hangzhou Alibaba Advertising Co,24.77
