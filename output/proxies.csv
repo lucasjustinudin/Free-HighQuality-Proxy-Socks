@@ -1,19 +1,37 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-180.167.238.98:7302,http,CN,elite,457,,China Telecom (Group),-0.43
-154.12.242.0:1080,http,US,elite,608,,Contabo Inc,1.08
-27.185.218.213:17981,http,CN,elite,990,,"Shijiazhuang IDC network, CHINANET Hebei",4.9
-8.213.128.6:55443,http,KR,elite,2333,,"Alibaba (US) Technology Co., Ltd.",18.33
-47.121.182.88:9098,http,CN,elite,2468,,"Hangzhou Alibaba Advertising Co., Ltd.",19.68
-8.146.200.53:9080,http,CN,elite,2474,,"Hangzhou Alibaba Advertising Co., Ltd.",19.74
-47.121.129.129:80,http,CN,elite,2488,,"Hangzhou Alibaba Advertising Co., Ltd.",19.88
-47.104.27.249:4006,http,CN,elite,2495,,Hangzhou Alibaba Advertising Co,19.95
-8.130.37.235:3128,http,CN,elite,2498,,"Hangzhou Alibaba Advertising Co., Ltd.",19.98
-39.104.57.33:80,http,CN,elite,2502,,Hangzhou Alibaba Advertising Co,20.02
-39.104.23.154:80,http,CN,elite,2510,,Hangzhou Alibaba Advertising Co,20.1
-47.109.110.100:8081,http,CN,elite,2518,,Hangzhou Alibaba Advertising Co,20.18
-139.224.186.221:80,http,CN,elite,2530,,Addresses CNNIC,20.3
-47.92.82.167:9098,http,CN,elite,2571,,Hangzhou Alibaba Advertising Co,20.71
-199.203.152.99:8111,http,IL,anonymous,2318,,Cellcom Fixed Line Communication L.P,21.18
-167.233.169.253:1083,http,DE,transparent,2127,,Hetzner Online GmbH,21.27
-8.213.128.6:8889,http,KR,elite,2699,,"Alibaba (US) Technology Co., Ltd.",21.99
-39.102.214.208:9080,http,CN,elite,2977,,Hangzhou Alibaba Advertising Co,24.77
+3.19.54.146:48420,http,US,elite,93,,"Amazon.com, Inc.",-4.07
+141.98.153.86:80,http,DE,elite,380,,Contabo GmbH,-1.2
+15.161.131.175:28126,http,IT,elite,456,,Amazon Technologies Inc,-0.44
+112.184.234.229:80,http,KR,elite,733,,Korea Telecom,2.33
+120.55.240.71:8647,http,CN,elite,896,,Hangzhou Alibaba Advertising Co,3.96
+8.215.25.3:2080,http,ID,elite,1233,,"Alibaba (US) Technology Co., Ltd.",7.33
+47.252.11.233:9080,http,US,elite,2065,,Alibaba Cloud LLC,15.65
+8.211.194.78:143,http,GB,elite,2223,,"Alibaba (US) Technology Co., Ltd.",17.23
+47.74.46.81:9090,http,JP,elite,2289,,Alibaba Cloud LLC,17.89
+47.238.60.156:8123,http,HK,elite,2359,,Alibaba Cloud LLC,18.59
+47.237.113.119:8118,http,SG,elite,2398,,"Alibaba (US) Technology Co., Ltd.",18.98
+47.91.121.127:20,http,AE,elite,2405,,Alibaba Cloud LLC,19.05
+47.91.121.127:3129,http,AE,elite,2406,,Alibaba Cloud LLC,19.06
+47.250.155.254:19,http,MY,elite,2407,,"Alibaba (US) Technology Co., Ltd.",19.07
+8.220.141.8:8888,http,PH,elite,2428,,"Alibaba (US) Technology Co., Ltd.",19.28
+139.224.186.221:6666,http,CN,elite,2430,,Addresses CNNIC,19.3
+149.129.255.179:7890,http,ID,elite,2430,,Alibaba.com Singapore E-Commerce Private,19.3
+47.106.216.202:443,http,CN,elite,2448,,Hangzhou Alibaba Advertising Co,19.48
+47.121.129.129:8888,http,CN,elite,2459,,"Hangzhou Alibaba Advertising Co., Ltd.",19.59
+8.213.222.157:8443,http,TH,elite,2460,,"Alibaba (US) Technology Co., Ltd.",19.6
+39.102.213.213:10000,http,CN,elite,2464,,Hangzhou Alibaba Advertising Co,19.64
+8.148.23.202:9098,http,CN,elite,2464,,"Hangzhou Alibaba Advertising Co., Ltd.",19.64
+8.213.222.157:41,http,TH,elite,2464,,"Alibaba (US) Technology Co., Ltd.",19.64
+121.43.154.123:80,http,CN,elite,2465,,"Hangzhou Alibaba Advertising Co., Ltd.",19.65
+8.220.141.8:80,http,PH,elite,2465,,"Alibaba (US) Technology Co., Ltd.",19.65
+39.102.208.189:3129,http,CN,elite,2466,,Hangzhou Alibaba Advertising Co,19.66
+39.102.209.128:80,http,CN,elite,2469,,Hangzhou Alibaba Advertising Co,19.69
+47.104.27.249:80,http,CN,elite,2470,,Hangzhou Alibaba Advertising Co,19.7
+39.102.208.23:8443,http,CN,elite,2475,,Hangzhou Alibaba Advertising Co,19.75
+106.14.104.220:3128,http,CN,elite,2482,,Hangzhou Alibaba Advertising Co,19.82
+8.130.36.163:80,http,CN,elite,2484,,"Hangzhou Alibaba Advertising Co., Ltd.",19.84
+8.130.37.235:9098,http,CN,elite,2491,,"Hangzhou Alibaba Advertising Co., Ltd.",19.91
+39.104.23.154:6379,http,CN,elite,2508,,Hangzhou Alibaba Advertising Co,20.08
+47.90.149.238:5060,http,US,elite,2644,,Alibaba.com LLC,21.44
+47.89.159.212:9098,http,US,elite,2673,,Alibaba.com LLC,21.73
+148.224.14.253:999,http,MX,transparent,2293,,Jorge Luis Torres Fernandez,22.93
