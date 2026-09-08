@@ -1,10 +1,11 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-219.142.66.245:9090,http,CN,transparent,977,,China Networks Inter-Exchange,9.77
-43.160.242.118:3128,http,SG,elite,1610,,Shenzhen Tencent Computer Systems Compan,11.1
-202.21.115.178:8080,http,MN,transparent,1651,,Mobinet LLC,16.51
-8.138.125.130:3128,http,CN,elite,2484,,"Hangzhou Alibaba Advertising Co., Ltd.",19.84
-47.121.182.88:9098,http,CN,elite,2507,,"Hangzhou Alibaba Advertising Co., Ltd.",20.07
-39.102.208.149:12000,http,CN,elite,2513,,Hangzhou Alibaba Advertising Co,20.13
-39.102.211.162:8888,http,CN,elite,2516,,Hangzhou Alibaba Advertising Co,20.16
-47.121.182.36:1088,http,CN,elite,2520,,"Hangzhou Alibaba Advertising Co., Ltd.",20.2
-47.109.83.196:8008,http,CN,elite,2557,,Hangzhou Alibaba Advertising Co,20.57
+54.238.215.10:1443,http,JP,elite,624,,Amazon Technologies Inc.,1.24
+43.218.124.29:2018,http,ID,elite,998,,"Amazon.com, Inc.",4.98
+8.138.149.37:30001,http,CN,elite,2502,,"Hangzhou Alibaba Advertising Co., Ltd.",20.02
+47.104.27.165:8080,http,CN,elite,2507,,Hangzhou Alibaba Advertising Co,20.07
+45.230.47.150:8080,http,VE,transparent,2023,,Gandalf Comunicaciones C.A.,20.23
+47.112.11.170:3128,http,CN,elite,2538,,Addresses CNNIC,20.38
+47.92.194.235:6666,http,CN,elite,2546,,Hangzhou Alibaba Advertising Co,20.46
+47.112.11.170:13,http,CN,elite,2549,,Addresses CNNIC,20.49
+8.138.82.6:9080,http,CN,elite,2556,,"Hangzhou Alibaba Advertising Co., Ltd.",20.56
+103.68.212.84:80,http,ID,transparent,2994,,PT Mars Data Telekomunikasi,29.94
