@@ -1,14 +1,14 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-5.129.254.49:8888,http,RU,elite,810,,"JSC ""TIMEWEB""",3.1
-43.208.134.144:1941,http,TH,elite,971,,"Amazon.com, Inc.",4.71
-144.124.251.24:10000,http,NL,elite,1073,,Servers Tech Fzco,5.73
-8.213.156.191:8444,http,KR,elite,2294,,"Alibaba (US) Technology Co., Ltd.",17.94
-47.112.15.44:8000,http,CN,elite,2413,,Addresses CNNIC,19.13
-8.138.131.110:8008,http,CN,elite,2417,,"Hangzhou Alibaba Advertising Co., Ltd.",19.17
-8.138.149.37:9080,http,CN,elite,2418,,"Hangzhou Alibaba Advertising Co., Ltd.",19.18
-8.134.149.133:8443,http,CN,elite,2423,,"Hangzhou Alibaba Advertising Co., Ltd.",19.23
-8.130.74.114:1234,http,CN,elite,2442,,"Hangzhou Alibaba Advertising Co., Ltd.",19.42
-47.104.27.165:8081,http,CN,elite,2446,,Hangzhou Alibaba Advertising Co,19.46
-47.121.129.129:6379,http,CN,elite,2448,,"Hangzhou Alibaba Advertising Co., Ltd.",19.48
-47.106.75.125:8888,http,CN,elite,2452,,Hangzhou Alibaba Advertising Co,19.52
-116.68.115.74:8080,http,IN,transparent,2440,,Asianet Satellite Communications Pvt Ltd,24.4
+12.50.107.221:80,http,US,anonymous,236,,"AT&T Enterprises, LLC",0.36
+107.174.36.15:8888,http,US,elite,594,,HostPapa,0.94
+172.237.73.24:80,http,SG,elite,849,,"Akamai Technologies, Inc.",3.49
+116.202.108.111:3128,http,DE,transparent,370,,Hetzner Online GmbH,3.7
+8.215.15.163:8118,http,ID,elite,2442,,"Alibaba (US) Technology Co., Ltd.",19.42
+139.224.195.153:8123,http,CN,elite,2443,,Addresses CNNIC,19.43
+47.112.11.170:8000,http,CN,elite,2443,,Addresses CNNIC,19.43
+120.26.104.146:1111,http,CN,elite,2448,,"Hangzhou Alibaba Advertising Co., Ltd.",19.48
+47.119.22.156:80,http,CN,elite,2450,,Addresses CNNIC,19.5
+47.116.210.163:5060,http,CN,elite,2453,,"Hangzhou Alibaba Advertising Co., Ltd.",19.53
+8.130.37.235:3128,http,CN,elite,2481,,"Hangzhou Alibaba Advertising Co., Ltd.",19.81
+39.102.209.163:20002,http,CN,elite,2528,,Hangzhou Alibaba Advertising Co,20.28
+177.73.155.212:999,http,CO,transparent,2916,,Dobleclick Software E Ingeneria,29.16
