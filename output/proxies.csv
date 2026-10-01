@@ -1,32 +1,8 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-60.12.215.23:7302,http,CN,elite,572,,CNC Group CHINA169 Zhejiang Province Net,0.72
-185.58.115.185:8080,http,SE,elite,668,,Baykov Ilya Sergeevich,1.68
-5.129.254.5:8888,http,RU,elite,668,,"JSC ""TIMEWEB""",1.68
-170.205.37.145:443,http,US,elite,805,,HostHatch,3.05
-164.90.201.255:3128,http,NL,transparent,441,,"DigitalOcean, LLC",4.41
-167.234.251.155:8880,http,BR,anonymous,1051,,Oracle Corporation,8.51
-114.55.209.170:8889,http,CN,elite,1647,,Hangzhou Alibaba Advertising Co,11.47
-47.251.74.38:8445,http,US,elite,2035,,Alibaba Cloud LLC,15.35
-47.251.74.38:8008,http,US,elite,2038,,Alibaba Cloud LLC,15.38
-47.251.87.199:2002,http,US,elite,2040,,Alibaba Cloud LLC,15.4
-47.74.46.81:8118,http,JP,elite,2225,,Alibaba Cloud LLC,17.25
-8.221.138.111:8080,http,JP,elite,2226,,"Alibaba (US) Technology Co., Ltd.",17.26
-8.221.141.88:9500,http,JP,elite,2242,,"Alibaba (US) Technology Co., Ltd.",17.42
-47.250.159.65:59394,http,MY,elite,2374,,"Alibaba (US) Technology Co., Ltd.",18.74
-47.250.51.110:50070,http,MY,elite,2378,,Alibaba Cloud LLC,18.78
-47.250.159.65:8181,http,MY,elite,2379,,"Alibaba (US) Technology Co., Ltd.",18.79
-149.129.255.179:119,http,ID,elite,2386,,Alibaba.com Singapore E-Commerce Private,18.86
-8.220.136.174:80,http,PH,elite,2401,,"Alibaba (US) Technology Co., Ltd.",19.01
-8.213.222.247:18081,http,TH,elite,2417,,"Alibaba (US) Technology Co., Ltd.",19.17
-39.102.214.152:3128,http,CN,elite,2424,,Hangzhou Alibaba Advertising Co,19.24
-8.130.36.163:8080,http,CN,elite,2433,,"Hangzhou Alibaba Advertising Co., Ltd.",19.33
-47.120.0.231:80,http,CN,elite,2436,,"Hangzhou Alibaba Advertising Co., Ltd.",19.36
-47.120.0.231:9091,http,CN,elite,2436,,"Hangzhou Alibaba Advertising Co., Ltd.",19.36
-39.102.213.50:34567,http,CN,elite,2440,,Hangzhou Alibaba Advertising Co,19.4
-106.15.137.41:9090,http,CN,elite,2443,,Hangzhou Alibaba Advertising Co,19.43
-39.102.214.192:9080,http,CN,elite,2448,,Hangzhou Alibaba Advertising Co,19.48
-8.130.74.114:3129,http,CN,elite,2448,,"Hangzhou Alibaba Advertising Co., Ltd.",19.48
-47.109.83.196:3128,http,CN,elite,2452,,Hangzhou Alibaba Advertising Co,19.52
-47.91.109.17:6379,http,AE,elite,2452,,Alibaba Cloud LLC,19.52
-8.130.90.177:1081,http,CN,elite,2454,,"Hangzhou Alibaba Advertising Co., Ltd.",19.54
-118.179.219.131:81,http,BD,transparent,2434,,Amber IT Limited,24.34
+119.188.131.55:17981,http,CN,elite,1135,,CNC Group CHINA169 Shandong Province Net,6.35
+41.220.16.211:80,http,ZW,anonymous,1010,,Telone PVT Ltd,8.1
+8.137.13.191:8081,http,CN,elite,2546,,"Hangzhou Alibaba Advertising Co., Ltd.",20.46
+103.146.26.12:8080,http,ID,transparent,2448,,INMEET,24.48
+8.138.149.37:443,http,CN,elite,2958,,"Hangzhou Alibaba Advertising Co., Ltd.",24.58
+103.155.168.144:8299,http,ID,transparent,2535,,PT Arozak Bima Yudho Sangkara,25.35
+94.43.164.242:8080,http,GE,transparent,2918,,"JSC ""Silknet""",29.18
