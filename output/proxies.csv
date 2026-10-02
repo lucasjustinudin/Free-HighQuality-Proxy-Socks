@@ -1,11 +1,21 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-47.91.65.12:80,http,DE,elite,264,,Alibaba.com LLC,-2.36
-43.133.13.187:8889,http,JP,elite,585,,Aceville Pte.ltd,0.85
-45.239.175.60:8080,http,BR,elite,626,,Estarnet Ltda-me,1.26
-128.199.202.122:8080,http,SG,elite,640,,"DigitalOcean, LLC",1.4
-116.202.108.111:3128,http,DE,transparent,412,,Hetzner Online GmbH,4.12
-103.216.51.2:8080,http,KH,elite,971,,Today Communication Co,4.71
-118.31.43.236:443,http,CN,elite,1311,,Hangzhou Alibaba Advertising Co,8.11
-103.231.78.36:80,http,IN,transparent,1375,,Kcomputers,13.75
-110.238.113.119:10006,http,TH,elite,2489,,Huawei International Pte. LTD,19.89
-47.121.182.88:9080,http,CN,elite,2993,,"Hangzhou Alibaba Advertising Co., Ltd.",24.93
+192.241.137.170:3128,http,US,transparent,141,,"DigitalOcean, LLC",1.41
+80.74.54.148:3128,http,DE,anonymous,553,,Deutsche Glasfaser Wholesale GmbH,3.53
+47.251.73.54:9898,http,US,elite,2043,,Alibaba Cloud LLC,15.43
+47.90.149.238:9080,http,US,elite,2119,,Alibaba.com LLC,16.19
+8.221.138.111:8081,http,JP,elite,2226,,"Alibaba (US) Technology Co., Ltd.",17.26
+8.210.17.35:1080,http,HK,elite,2333,,Alibaba.com LLC,18.33
+47.251.74.38:1000,http,US,elite,2364,,Alibaba Cloud LLC,18.64
+139.224.195.153:8118,http,CN,elite,2390,,Addresses CNNIC,18.9
+47.107.142.198:2000,http,CN,elite,2397,,Hangzhou Alibaba Advertising Co,18.97
+47.116.181.146:9443,http,CN,elite,2400,,"Hangzhou Alibaba Advertising Co., Ltd.",19.0
+47.119.22.92:8080,http,CN,elite,2400,,Addresses CNNIC,19.0
+47.119.20.8:3128,http,CN,elite,2404,,Addresses CNNIC,19.04
+120.26.52.35:3333,http,CN,elite,2413,,"Hangzhou Alibaba Advertising Co., Ltd.",19.13
+8.213.222.247:8888,http,TH,elite,2414,,"Alibaba (US) Technology Co., Ltd.",19.14
+47.91.120.190:1234,http,AE,elite,2424,,Alibaba Cloud LLC,19.24
+39.102.210.176:100,http,CN,elite,2425,,Hangzhou Alibaba Advertising Co,19.25
+8.130.90.177:3129,http,CN,elite,2427,,"Hangzhou Alibaba Advertising Co., Ltd.",19.27
+8.130.74.114:1111,http,CN,elite,2436,,"Hangzhou Alibaba Advertising Co., Ltd.",19.36
+47.121.183.107:8081,http,CN,elite,2457,,"Hangzhou Alibaba Advertising Co., Ltd.",19.57
+103.39.51.233:8085,http,ID,transparent,2156,,PT. Mega Mentari Mandiri,21.56
