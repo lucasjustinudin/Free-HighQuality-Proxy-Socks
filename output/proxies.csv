@@ -1,21 +1,11 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-47.252.11.233:84,http,US,elite,2082,,Alibaba Cloud LLC,15.82
-47.90.149.238:6379,http,US,elite,2084,,Alibaba.com LLC,15.84
-47.90.149.238:9098,http,US,elite,2085,,Alibaba.com LLC,15.85
-210.211.113.34:80,http,VN,transparent,1675,,VTDC,16.75
-47.237.2.245:20000,http,SG,elite,2366,,"Alibaba (US) Technology Co., Ltd.",18.66
-47.237.2.245:1234,http,SG,elite,2378,,"Alibaba (US) Technology Co., Ltd.",18.78
-8.212.151.166:4145,http,PH,elite,2399,,"Alibaba (US) Technology Co., Ltd.",18.99
-106.15.58.163:8080,http,CN,elite,2410,,Hangzhou Alibaba Advertising Co,19.1
-47.119.22.156:5060,http,CN,elite,2414,,Addresses CNNIC,19.14
-47.107.166.143:8000,http,CN,elite,2416,,Hangzhou Alibaba Advertising Co,19.16
-8.138.82.6:443,http,CN,elite,2416,,"Hangzhou Alibaba Advertising Co., Ltd.",19.16
-47.91.110.148:8443,http,AE,elite,2420,,Alibaba Cloud LLC,19.2
-139.224.207.73:3129,http,CN,elite,2421,,Addresses CNNIC,19.21
-39.102.209.163:20002,http,CN,elite,2436,,Hangzhou Alibaba Advertising Co,19.36
-39.102.211.162:8080,http,CN,elite,2438,,Hangzhou Alibaba Advertising Co,19.38
-39.104.69.76:8081,http,CN,elite,2442,,Hangzhou Alibaba Advertising Co,19.42
-8.130.71.75:9098,http,CN,elite,2443,,"Hangzhou Alibaba Advertising Co., Ltd.",19.43
-8.130.71.75:7890,http,CN,elite,2456,,"Hangzhou Alibaba Advertising Co., Ltd.",19.56
-39.104.16.201:8888,http,CN,elite,2481,,Hangzhou Alibaba Advertising Co,19.81
-187.201.225.188:999,http,MX,transparent,2804,,Uninet S.A. de C.V.,28.04
+167.99.8.113:8004,http,US,elite,202,,"DigitalOcean, LLC",-2.98
+39.106.165.196:8080,http,CN,elite,854,,Hangzhou Alibaba Advertising Co,3.54
+197.221.234.252:80,http,ZW,anonymous,1140,,Telone PVT Ltd,9.4
+8.220.205.172:5060,http,KR,elite,2268,,"Alibaba (US) Technology Co., Ltd.",17.68
+47.116.181.146:8090,http,CN,elite,2363,,"Hangzhou Alibaba Advertising Co., Ltd.",18.63
+101.132.248.7:1337,http,CN,elite,2376,,Hangzhou Alibaba Advertising Co,18.76
+8.148.24.225:3128,http,CN,elite,2413,,"Hangzhou Alibaba Advertising Co., Ltd.",19.13
+39.102.213.213:9080,http,CN,elite,2424,,Hangzhou Alibaba Advertising Co,19.24
+8.130.71.75:8081,http,CN,elite,2427,,"Hangzhou Alibaba Advertising Co., Ltd.",19.27
+101.206.186.99:8080,http,CN,elite,2818,,China Unicom Sichuan Province Network,23.18
