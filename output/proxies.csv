@@ -1,11 +1,13 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-167.99.8.113:8004,http,US,elite,202,,"DigitalOcean, LLC",-2.98
-39.106.165.196:8080,http,CN,elite,854,,Hangzhou Alibaba Advertising Co,3.54
-197.221.234.252:80,http,ZW,anonymous,1140,,Telone PVT Ltd,9.4
-8.220.205.172:5060,http,KR,elite,2268,,"Alibaba (US) Technology Co., Ltd.",17.68
-47.116.181.146:8090,http,CN,elite,2363,,"Hangzhou Alibaba Advertising Co., Ltd.",18.63
-101.132.248.7:1337,http,CN,elite,2376,,Hangzhou Alibaba Advertising Co,18.76
-8.148.24.225:3128,http,CN,elite,2413,,"Hangzhou Alibaba Advertising Co., Ltd.",19.13
-39.102.213.213:9080,http,CN,elite,2424,,Hangzhou Alibaba Advertising Co,19.24
-8.130.71.75:8081,http,CN,elite,2427,,"Hangzhou Alibaba Advertising Co., Ltd.",19.27
-101.206.186.99:8080,http,CN,elite,2818,,China Unicom Sichuan Province Network,23.18
+103.237.102.191:11111,http,DE,elite,484,,Zenlayer Inc,-0.16
+144.124.251.24:10008,http,NL,elite,576,,Servers Tech Fzco,0.76
+144.124.251.24:10372,http,NL,elite,633,,Servers Tech Fzco,1.33
+159.224.232.194:8888,http,UA,elite,635,,Triolan,1.35
+144.124.251.24:10088,http,NL,elite,640,,Servers Tech Fzco,1.4
+101.132.252.152:3128,http,CN,elite,2374,,Hangzhou Alibaba Advertising Co,18.74
+39.102.208.149:443,http,CN,elite,2414,,Hangzhou Alibaba Advertising Co,19.14
+47.92.143.92:8081,http,CN,elite,2420,,Hangzhou Alibaba Advertising Co,19.2
+39.102.213.3:80,http,CN,elite,2430,,Hangzhou Alibaba Advertising Co,19.3
+47.92.194.235:9999,http,CN,elite,2433,,Hangzhou Alibaba Advertising Co,19.33
+8.130.54.67:1080,http,CN,elite,2440,,"Hangzhou Alibaba Advertising Co., Ltd.",19.4
+106.14.104.220:5080,http,CN,elite,2639,,Hangzhou Alibaba Advertising Co,21.39
