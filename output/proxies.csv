@@ -1,19 +1,18 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-162.214.159.94:8085,http,US,elite,467,,Unified Layer,-0.33
-202.133.88.173:80,http,FR,elite,553,,BitCommand LLC,0.53
-112.184.234.229:80,http,KR,elite,747,,Korea Telecom,2.47
-43.160.222.70:3128,http,SG,transparent,625,,Shenzhen Tencent Computer Systems Compan,6.25
-190.9.48.193:999,http,MX,transparent,791,,"Konecta de Mexico, S. de R.L. de C.V.",7.91
-103.86.117.23:8080,http,ID,transparent,1200,,PT Link Data Sumber Barokah,12.0
-114.55.168.172:8080,http,CN,elite,1865,,Hangzhou Alibaba Advertising Co,13.65
-8.221.141.88:50,http,JP,elite,2276,,"Alibaba (US) Technology Co., Ltd.",17.76
-8.221.141.88:8061,http,JP,elite,2283,,"Alibaba (US) Technology Co., Ltd.",17.83
-47.116.210.163:8054,http,CN,elite,2429,,"Hangzhou Alibaba Advertising Co., Ltd.",19.29
-47.116.181.146:6379,http,CN,elite,2431,,"Hangzhou Alibaba Advertising Co., Ltd.",19.31
-47.99.112.148:5000,http,CN,elite,2436,,Aliyun Computing Co,19.36
-139.196.175.68:8080,http,CN,elite,2438,,Hangzhou Alibaba Advertising Co,19.38
-39.102.213.213:3128,http,CN,elite,2461,,Hangzhou Alibaba Advertising Co,19.61
-114.215.127.92:8081,http,CN,elite,2464,,China Internet Network Information Cente,19.64
-39.102.208.23:8080,http,CN,elite,2468,,Hangzhou Alibaba Advertising Co,19.68
-8.213.128.6:4567,http,KR,elite,2507,,"Alibaba (US) Technology Co., Ltd.",20.07
-110.238.113.119:3128,http,TH,elite,2537,,Huawei International Pte. LTD,20.37
+37.187.74.125:80,http,FR,elite,344,,OVH SAS,-1.56
+66.151.34.89:80,http,FI,elite,580,,Hostkey B.V.,0.8
+140.238.14.161:8080,http,KR,transparent,808,,Oracle Corporation,8.08
+47.116.126.57:7890,http,CN,elite,2467,,"Hangzhou Alibaba Advertising Co., Ltd.",19.67
+101.132.248.7:20,http,CN,elite,2474,,Hangzhou Alibaba Advertising Co,19.74
+8.138.125.130:9080,http,CN,elite,2482,,"Hangzhou Alibaba Advertising Co., Ltd.",19.82
+8.134.149.133:8443,http,CN,elite,2493,,"Hangzhou Alibaba Advertising Co., Ltd.",19.93
+39.102.214.208:8090,http,CN,elite,2501,,Hangzhou Alibaba Advertising Co,20.01
+39.102.208.149:443,http,CN,elite,2503,,Hangzhou Alibaba Advertising Co,20.03
+39.102.209.128:13,http,CN,elite,2508,,Hangzhou Alibaba Advertising Co,20.08
+39.102.214.208:10002,http,CN,elite,2518,,Hangzhou Alibaba Advertising Co,20.18
+39.102.209.163:80,http,CN,elite,2522,,Hangzhou Alibaba Advertising Co,20.22
+47.121.182.36:1088,http,CN,elite,2525,,"Hangzhou Alibaba Advertising Co., Ltd.",20.25
+8.130.74.114:8080,http,CN,elite,2532,,"Hangzhou Alibaba Advertising Co., Ltd.",20.32
+47.92.152.43:8089,http,CN,elite,2537,,Hangzhou Alibaba Advertising Co,20.37
+47.109.110.100:9098,http,CN,elite,2539,,Hangzhou Alibaba Advertising Co,20.39
+103.113.3.25:8080,http,ID,transparent,2670,,Diskominfo Tangerang Selatan,26.7
