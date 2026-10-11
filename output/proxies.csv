@@ -1,34 +1,22 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-195.191.158.128:8080,http,RU,elite,498,,Intelsc Ltd.,-0.02
-124.163.236.54:7302,http,CN,elite,561,,CNC Group CHINA169 Shan1xi Province Netw,0.61
-190.89.29.110:999,http,VE,transparent,640,,"CORPORACION FIBEX TELECOM, C.A.",6.4
-129.226.93.232:80,http,SG,transparent,1181,,Tencent Cloud Computing (Beijing) Co,11.81
-47.89.159.212:8443,http,US,elite,2008,,Alibaba.com LLC,15.08
-47.252.18.37:45,http,US,elite,2009,,Alibaba Cloud LLC,15.09
-47.251.74.38:8047,http,US,elite,2136,,Alibaba Cloud LLC,16.36
-8.221.141.88:5006,http,JP,elite,2323,,"Alibaba (US) Technology Co., Ltd.",18.23
-8.213.128.6:9080,http,KR,elite,2373,,"Alibaba (US) Technology Co., Ltd.",18.73
-8.213.134.213:31433,http,KR,elite,2382,,"Alibaba (US) Technology Co., Ltd.",18.82
-47.250.155.254:80,http,MY,elite,2458,,"Alibaba (US) Technology Co., Ltd.",19.58
-47.250.177.202:5060,http,MY,elite,2458,,"Alibaba (US) Technology Co., Ltd.",19.58
-139.196.175.68:8888,http,CN,elite,2469,,Hangzhou Alibaba Advertising Co,19.69
-139.224.195.153:88,http,CN,elite,2469,,Addresses CNNIC,19.69
-47.250.11.111:5060,http,MY,elite,2471,,Alibaba Cloud LLC,19.71
-8.212.151.166:9797,http,PH,elite,2471,,"Alibaba (US) Technology Co., Ltd.",19.71
-8.215.3.250:9999,http,ID,elite,2479,,Alibaba Cloud (Singapore) Private Limite,19.79
-8.215.15.163:11,http,ID,elite,2480,,"Alibaba (US) Technology Co., Ltd.",19.8
-139.224.186.221:6666,http,CN,elite,2482,,Addresses CNNIC,19.82
-47.116.210.163:9098,http,CN,elite,2483,,"Hangzhou Alibaba Advertising Co., Ltd.",19.83
-47.112.11.170:8000,http,CN,elite,2489,,Addresses CNNIC,19.89
-47.116.210.163:8888,http,CN,elite,2492,,"Hangzhou Alibaba Advertising Co., Ltd.",19.92
-47.112.15.44:999,http,CN,elite,2497,,Addresses CNNIC,19.97
-8.212.165.164:1081,http,PH,elite,2504,,"Alibaba (US) Technology Co., Ltd.",20.04
-8.213.197.208:4002,http,TH,elite,2505,,"Alibaba (US) Technology Co., Ltd.",20.05
-8.148.4.166:8081,http,CN,elite,2508,,"Hangzhou Alibaba Advertising Co., Ltd.",20.08
-47.104.198.111:1234,http,CN,elite,2517,,Hangzhou Alibaba Advertising Co,20.17
-8.148.20.126:9080,http,CN,elite,2518,,"Hangzhou Alibaba Advertising Co., Ltd.",20.18
-39.102.211.64:8081,http,CN,elite,2520,,Hangzhou Alibaba Advertising Co,20.2
-8.137.62.53:80,http,CN,elite,2531,,"Hangzhou Alibaba Advertising Co., Ltd.",20.31
-110.238.113.119:80,http,TH,elite,2545,,Huawei International Pte. LTD,20.45
-47.108.159.113:8081,http,CN,elite,2582,,Hangzhou Alibaba Advertising Co,20.82
-78.155.64.250:8080,http,SY,transparent,2449,,ISP-TARASSUL,24.49
+219.93.101.60:80,http,MY,anonymous,1093,,ADSL Streamyx Telekom Malaysia,8.93
+212.175.50.85:8085,http,TR,transparent,922,,Turk Telekomunikasyon Anonim Sirketi,9.22
+37.110.147.13:80,http,RU,elite,1533,,NCNET,10.33
+120.28.139.19:8082,http,PH,transparent,1186,,Globe Telecom,11.86
+125.27.192.162:8081,http,TH,transparent,1306,,TOT Public Company Limited,13.06
+103.242.104.150:8080,http,ID,transparent,1394,,PT Lintas Jaringan Nusantara,13.94
+154.62.127.111:999,http,VE,transparent,1487,,Cogent Communications,14.87
+103.133.27.143:8080,http,ID,transparent,1614,,PT PHATRIA INTI PERSADA,16.14
+47.251.87.199:9080,http,US,elite,2134,,Alibaba Cloud LLC,16.34
+47.251.73.54:9000,http,US,elite,2135,,Alibaba Cloud LLC,16.35
+8.211.42.167:51,http,DE,elite,2194,,"Alibaba (US) Technology Co., Ltd.",16.94
+197.221.240.247:80,http,ZW,anonymous,2024,,Telone PVT Ltd,18.24
+8.221.141.88:8081,http,JP,elite,2326,,"Alibaba (US) Technology Co., Ltd.",18.26
+47.250.11.111:3128,http,MY,elite,2461,,Alibaba Cloud LLC,19.61
+8.215.15.163:8123,http,ID,elite,2484,,"Alibaba (US) Technology Co., Ltd.",19.84
+8.213.222.157:3129,http,TH,elite,2502,,"Alibaba (US) Technology Co., Ltd.",20.02
+8.212.168.170:4145,http,PH,elite,2510,,"Alibaba (US) Technology Co., Ltd.",20.1
+47.104.28.135:3128,http,CN,elite,2511,,Hangzhou Alibaba Advertising Co,20.11
+47.109.110.100:9080,http,CN,elite,2533,,Hangzhou Alibaba Advertising Co,20.33
+112.210.155.150:8082,http,PH,transparent,2818,,Philippine Long Distance Telephone Co.,28.18
+122.3.207.67:8089,http,PH,transparent,2930,,Philippine Long Distance Telephone Co.,29.3
