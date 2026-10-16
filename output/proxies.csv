@@ -1,31 +1,28 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-31.148.207.153:80,http,UA,elite,584,,MAGICOM Ltd,0.84
-218.252.192.228:80,http,HK,elite,868,,Hong Kong Cable Television Limited,3.68
-123.57.0.163:8888,http,CN,elite,1156,,Hangzhou Alibaba Advertising Co,6.56
-47.242.218.151:9001,http,HK,elite,1355,,Alibaba.com LLC,8.55
-41.220.16.218:80,http,ZW,anonymous,1241,,Telone PVT Ltd,10.41
-47.251.87.74:6379,http,US,elite,2037,,Alibaba Cloud LLC,15.37
-47.90.149.238:41,http,US,elite,2111,,Alibaba.com LLC,16.11
-8.221.138.111:6379,http,JP,elite,2226,,"Alibaba (US) Technology Co., Ltd.",17.26
-8.220.204.92:9080,http,KR,elite,2264,,"Alibaba (US) Technology Co., Ltd.",17.64
-8.220.204.92:5060,http,KR,elite,2266,,"Alibaba (US) Technology Co., Ltd.",17.66
-47.91.89.3:20,http,DE,elite,2277,,Alibaba.com LLC,17.77
-8.211.49.86:6666,http,DE,elite,2307,,"Alibaba (US) Technology Co., Ltd.",18.07
-47.237.107.41:8096,http,SG,elite,2356,,"Alibaba (US) Technology Co., Ltd.",18.56
-47.237.113.119:8081,http,SG,elite,2356,,"Alibaba (US) Technology Co., Ltd.",18.56
-47.250.11.111:102,http,MY,elite,2363,,Alibaba Cloud LLC,18.63
-47.250.11.111:55443,http,MY,elite,2363,,Alibaba Cloud LLC,18.63
-47.250.51.110:50070,http,MY,elite,2365,,Alibaba Cloud LLC,18.65
-47.116.181.146:1337,http,CN,elite,2378,,"Hangzhou Alibaba Advertising Co., Ltd.",18.78
-8.215.15.163:8443,http,ID,elite,2387,,"Alibaba (US) Technology Co., Ltd.",18.87
-101.132.249.207:3129,http,CN,elite,2397,,Hangzhou Alibaba Advertising Co,18.97
-8.220.136.174:3129,http,PH,elite,2401,,"Alibaba (US) Technology Co., Ltd.",19.01
-47.119.19.221:4006,http,CN,elite,2414,,Addresses CNNIC,19.14
-8.148.24.225:8800,http,CN,elite,2418,,"Hangzhou Alibaba Advertising Co., Ltd.",19.18
-47.91.120.190:80,http,AE,elite,2426,,Alibaba Cloud LLC,19.26
-8.130.54.67:3129,http,CN,elite,2428,,"Hangzhou Alibaba Advertising Co., Ltd.",19.28
-39.102.214.208:8080,http,CN,elite,2429,,Hangzhou Alibaba Advertising Co,19.29
-47.91.121.127:8008,http,AE,elite,2434,,Alibaba Cloud LLC,19.34
-8.212.165.164:4369,http,PH,elite,2435,,"Alibaba (US) Technology Co., Ltd.",19.35
-39.104.69.76:8443,http,CN,elite,2449,,Hangzhou Alibaba Advertising Co,19.49
-8.130.54.67:9000,http,CN,elite,2453,,"Hangzhou Alibaba Advertising Co., Ltd.",19.53
+78.14.19.3:38057,http,MX,elite,329,,Amazon.com,-1.71
+213.176.74.119:1080,http,NL,elite,405,,NetCrafters OU,-0.95
+79.110.200.27:8000,http,PL,elite,427,,Korbank S. A.,-0.73
+103.157.200.126:3128,http,PK,anonymous,426,,Logitech Cable (Private) Limited,2.26
+45.190.76.19:999,http,MX,transparent,858,,Meta Networks SA De CV,8.58
+47.89.159.212:8123,http,US,elite,2008,,Alibaba.com LLC,15.08
+47.90.149.238:11,http,US,elite,2009,,Alibaba.com LLC,15.09
+47.254.36.213:20,http,US,elite,2128,,Alibaba Cloud LLC,16.28
+8.211.194.85:10000,http,GB,elite,2162,,"Alibaba (US) Technology Co., Ltd.",16.62
+8.211.194.85:3128,http,GB,elite,2164,,"Alibaba (US) Technology Co., Ltd.",16.64
+8.221.141.88:80,http,JP,elite,2318,,"Alibaba (US) Technology Co., Ltd.",18.18
+47.91.110.148:3128,http,AE,elite,2323,,Alibaba Cloud LLC,18.23
+197.221.249.199:80,http,ZW,anonymous,2026,,Telone PVT Ltd,18.26
+8.213.156.191:8444,http,KR,elite,2359,,"Alibaba (US) Technology Co., Ltd.",18.59
+8.220.204.215:8080,http,KR,elite,2362,,"Alibaba (US) Technology Co., Ltd.",18.62
+47.76.144.139:4006,http,HK,elite,2399,,Alibaba Cloud LLC,18.99
+47.238.60.156:80,http,HK,elite,2407,,Alibaba Cloud LLC,19.07
+47.238.134.126:888,http,HK,elite,2408,,Alibaba Cloud LLC,19.08
+194.150.68.101:6010,http,IR,transparent,1931,,Gostaresh Ertebat Azin Kia Company PJSC,19.31
+8.219.229.53:8200,http,SG,elite,2440,,"Alibaba (US) Technology Co., Ltd.",19.4
+8.219.229.53:8081,http,SG,elite,2441,,"Alibaba (US) Technology Co., Ltd.",19.41
+8.220.141.8:8080,http,PH,elite,2474,,"Alibaba (US) Technology Co., Ltd.",19.74
+8.213.222.247:9999,http,TH,elite,2494,,"Alibaba (US) Technology Co., Ltd.",19.94
+39.102.214.192:9080,http,CN,elite,2510,,Hangzhou Alibaba Advertising Co,20.1
+8.148.23.202:8080,http,CN,elite,2518,,"Hangzhou Alibaba Advertising Co., Ltd.",20.18
+38.58.174.8:999,http,MX,transparent,2731,,Cogent Communications,27.31
+103.39.51.233:8085,http,ID,transparent,2937,,PT. Mega Mentari Mandiri,29.37
