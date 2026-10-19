@@ -1,29 +1,27 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-65.109.65.238:28080,http,FI,elite,460,,Hetzner Online GmbH,-0.4
-82.152.163.174:80,http,HK,elite,701,,Hytron Network Services Limited,2.01
-143.198.90.221:3129,http,SG,elite,832,,"DigitalOcean, LLC",3.32
-144.124.251.24:11108,http,NL,elite,1141,,Servers Tech Fzco,6.41
-47.251.87.74:55443,http,US,elite,2050,,Alibaba Cloud LLC,15.5
-47.89.159.212:8443,http,US,elite,2127,,Alibaba.com LLC,16.27
-47.90.149.238:111,http,US,elite,2131,,Alibaba.com LLC,16.31
-47.74.46.81:9090,http,JP,elite,2203,,Alibaba Cloud LLC,17.03
-47.91.29.151:80,http,JP,elite,2203,,Alibaba.com LLC,17.03
-8.221.141.88:91,http,JP,elite,2203,,"Alibaba (US) Technology Co., Ltd.",17.03
-47.238.60.156:31433,http,HK,elite,2284,,Alibaba Cloud LLC,17.84
-8.211.49.86:6666,http,DE,elite,2325,,"Alibaba (US) Technology Co., Ltd.",18.25
-121.43.109.88:8060,http,CN,elite,2373,,"Hangzhou Alibaba Advertising Co., Ltd.",18.73
-47.119.22.92:8080,http,CN,elite,2377,,Addresses CNNIC,18.77
-47.107.142.198:9090,http,CN,elite,2378,,Hangzhou Alibaba Advertising Co,18.78
-47.120.0.231:1081,http,CN,elite,2379,,"Hangzhou Alibaba Advertising Co., Ltd.",18.79
-47.104.198.111:8061,http,CN,elite,2382,,Hangzhou Alibaba Advertising Co,18.82
-8.212.151.166:199,http,PH,elite,2382,,"Alibaba (US) Technology Co., Ltd.",18.82
-47.104.27.165:9098,http,CN,elite,2383,,Hangzhou Alibaba Advertising Co,18.83
-8.213.222.157:45,http,TH,elite,2383,,"Alibaba (US) Technology Co., Ltd.",18.83
-47.104.198.111:10,http,CN,elite,2391,,Hangzhou Alibaba Advertising Co,18.91
-8.130.54.67:3128,http,CN,elite,2398,,"Hangzhou Alibaba Advertising Co., Ltd.",18.98
-8.220.141.8:8080,http,PH,elite,2401,,"Alibaba (US) Technology Co., Ltd.",19.01
-39.100.88.89:4006,http,CN,elite,2409,,Hangzhou Alibaba Advertising Co,19.09
-47.108.159.113:8081,http,CN,elite,2419,,Hangzhou Alibaba Advertising Co,19.19
-47.91.115.179:8081,http,AE,elite,2456,,Alibaba Cloud LLC,19.56
-47.91.120.190:9080,http,AE,elite,2457,,Alibaba Cloud LLC,19.57
-193.181.35.215:8118,http,SE,elite,2825,,PVDataNet AB,23.25
+45.65.226.173:999,http,AR,transparent,689,,Solution LAN S.A,6.89
+47.251.73.54:80,http,US,elite,2006,,Alibaba Cloud LLC,15.06
+47.90.149.238:9090,http,US,elite,2131,,Alibaba.com LLC,16.31
+8.220.205.172:45,http,KR,elite,2261,,"Alibaba (US) Technology Co., Ltd.",17.61
+8.211.194.78:8005,http,GB,elite,2273,,"Alibaba (US) Technology Co., Ltd.",17.73
+8.210.17.35:1337,http,HK,elite,2295,,Alibaba.com LLC,17.95
+47.76.144.139:6588,http,HK,elite,2296,,Alibaba Cloud LLC,17.96
+8.209.96.245:3128,http,DE,elite,2299,,Alibaba.com Singapore E-Commerce Private,17.99
+47.238.60.156:9090,http,HK,elite,2302,,Alibaba Cloud LLC,18.02
+8.148.22.214:3129,http,CN,elite,2305,,"Hangzhou Alibaba Advertising Co., Ltd.",18.05
+47.92.152.43:6379,http,CN,elite,2331,,Hangzhou Alibaba Advertising Co,18.31
+8.138.125.130:8080,http,CN,elite,2333,,"Hangzhou Alibaba Advertising Co., Ltd.",18.33
+47.116.181.146:8081,http,CN,elite,2334,,"Hangzhou Alibaba Advertising Co., Ltd.",18.34
+47.92.152.43:9080,http,CN,elite,2347,,Hangzhou Alibaba Advertising Co,18.47
+47.237.92.86:8060,http,SG,elite,2354,,"Alibaba (US) Technology Co., Ltd.",18.54
+47.237.113.119:80,http,SG,elite,2360,,"Alibaba (US) Technology Co., Ltd.",18.6
+8.215.12.103:8008,http,ID,elite,2370,,Alibaba Cloud (Singapore) Private Limite,18.7
+8.213.195.191:9080,http,TH,elite,2388,,Alibaba Cloud (Singapore) Private Limite,18.88
+8.213.195.191:18080,http,TH,elite,2390,,Alibaba Cloud (Singapore) Private Limite,18.9
+8.213.222.157:100,http,TH,elite,2390,,"Alibaba (US) Technology Co., Ltd.",18.9
+8.213.197.208:3128,http,TH,elite,2391,,"Alibaba (US) Technology Co., Ltd.",18.91
+8.213.222.247:77,http,TH,elite,2391,,"Alibaba (US) Technology Co., Ltd.",18.91
+8.213.195.191:312,http,TH,elite,2392,,Alibaba Cloud (Singapore) Private Limite,18.92
+8.213.222.247:8081,http,TH,elite,2392,,"Alibaba (US) Technology Co., Ltd.",18.92
+39.102.209.128:1111,http,CN,elite,2994,,Hangzhou Alibaba Advertising Co,24.94
+46.100.44.35:8080,http,IR,transparent,2526,,Iran Telecommunication Company PJS,25.26
