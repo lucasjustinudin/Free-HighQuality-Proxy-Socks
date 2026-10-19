@@ -1,29 +1,14 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-159.203.61.169:8080,http,CA,elite,172,,"DigitalOcean, LLC",-3.28
-93.123.16.14:80,http,BG,elite,342,,Ohost Group LLC,-1.58
-65.109.87.121:18080,http,FI,elite,443,,Hetzner Online GmbH,-0.57
-89.172.125.106:8080,http,HR,transparent,624,,Hrvatski Telekom d.d,6.24
-47.89.159.212:1337,http,US,elite,2106,,Alibaba.com LLC,16.06
-8.211.194.78:3128,http,GB,elite,2252,,"Alibaba (US) Technology Co., Ltd.",17.52
-8.211.200.183:1234,http,GB,elite,2275,,"Alibaba (US) Technology Co., Ltd.",17.75
-47.76.144.139:443,http,HK,elite,2310,,Alibaba Cloud LLC,18.1
-47.250.11.111:1000,http,MY,elite,2363,,Alibaba Cloud LLC,18.63
-47.250.159.65:18081,http,MY,elite,2366,,"Alibaba (US) Technology Co., Ltd.",18.66
-8.215.15.163:9080,http,ID,elite,2380,,"Alibaba (US) Technology Co., Ltd.",18.8
-149.129.226.9:9080,http,ID,elite,2387,,Alibaba.com Singapore E-Commerce Private,18.87
-139.196.175.68:3128,http,CN,elite,2392,,Hangzhou Alibaba Advertising Co,18.92
-8.212.165.164:41890,http,PH,elite,2408,,"Alibaba (US) Technology Co., Ltd.",19.08
-106.15.137.41:9090,http,CN,elite,2411,,Hangzhou Alibaba Advertising Co,19.11
-8.213.222.157:8080,http,TH,elite,2411,,"Alibaba (US) Technology Co., Ltd.",19.11
-8.212.165.164:51,http,PH,elite,2414,,"Alibaba (US) Technology Co., Ltd.",19.14
-8.212.168.170:2067,http,PH,elite,2414,,"Alibaba (US) Technology Co., Ltd.",19.14
-47.92.143.92:9080,http,CN,elite,2421,,Hangzhou Alibaba Advertising Co,19.21
-8.148.23.165:8889,http,CN,elite,2423,,"Hangzhou Alibaba Advertising Co., Ltd.",19.23
-47.91.110.148:9098,http,AE,elite,2425,,Alibaba Cloud LLC,19.25
-47.91.115.179:8080,http,AE,elite,2427,,Alibaba Cloud LLC,19.27
-47.91.121.127:1111,http,AE,elite,2429,,Alibaba Cloud LLC,19.29
-39.104.59.56:80,http,CN,elite,2438,,Hangzhou Alibaba Advertising Co,19.38
-39.104.16.201:8008,http,CN,elite,2447,,Hangzhou Alibaba Advertising Co,19.47
-181.78.195.137:999,http,EC,transparent,1962,,Ufinet Panama S.A.,19.62
-114.215.127.92:9080,http,CN,elite,2463,,China Internet Network Information Cente,19.63
-47.108.159.113:8008,http,CN,elite,2486,,Hangzhou Alibaba Advertising Co,19.86
+101.66.195.137:8085,http,CN,elite,858,,China Unicom Zhejiang Province Network,3.58
+187.102.219.34:999,http,AR,transparent,950,,Cretton Lisandro Maximiliano,9.5
+47.90.149.238:6379,http,US,elite,2135,,Alibaba.com LLC,16.35
+47.116.210.163:3129,http,CN,elite,2380,,"Hangzhou Alibaba Advertising Co., Ltd.",18.8
+47.119.164.33:1081,http,CN,elite,2391,,Addresses CNNIC,18.91
+47.119.20.8:9098,http,CN,elite,2393,,Addresses CNNIC,18.93
+39.104.27.89:106,http,CN,elite,2418,,Hangzhou Alibaba Advertising Co,19.18
+8.130.37.235:20000,http,CN,elite,2435,,"Hangzhou Alibaba Advertising Co., Ltd.",19.35
+47.108.159.113:8443,http,CN,elite,2439,,Hangzhou Alibaba Advertising Co,19.39
+47.104.27.249:3128,http,CN,elite,2507,,Hangzhou Alibaba Advertising Co,20.07
+177.128.115.198:999,http,CL,transparent,2246,,Binet Networking Data Limitada,22.46
+36.95.155.74:3126,http,ID,transparent,2321,,PT. Telekomunikasi Indonesia,23.21
+106.14.104.220:8008,http,CN,elite,2931,,Hangzhou Alibaba Advertising Co,24.31
