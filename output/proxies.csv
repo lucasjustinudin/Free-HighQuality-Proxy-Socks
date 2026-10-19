@@ -1,27 +1,28 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-45.65.226.173:999,http,AR,transparent,689,,Solution LAN S.A,6.89
-47.251.73.54:80,http,US,elite,2006,,Alibaba Cloud LLC,15.06
-47.90.149.238:9090,http,US,elite,2131,,Alibaba.com LLC,16.31
-8.220.205.172:45,http,KR,elite,2261,,"Alibaba (US) Technology Co., Ltd.",17.61
-8.211.194.78:8005,http,GB,elite,2273,,"Alibaba (US) Technology Co., Ltd.",17.73
-8.210.17.35:1337,http,HK,elite,2295,,Alibaba.com LLC,17.95
-47.76.144.139:6588,http,HK,elite,2296,,Alibaba Cloud LLC,17.96
-8.209.96.245:3128,http,DE,elite,2299,,Alibaba.com Singapore E-Commerce Private,17.99
-47.238.60.156:9090,http,HK,elite,2302,,Alibaba Cloud LLC,18.02
-8.148.22.214:3129,http,CN,elite,2305,,"Hangzhou Alibaba Advertising Co., Ltd.",18.05
-47.92.152.43:6379,http,CN,elite,2331,,Hangzhou Alibaba Advertising Co,18.31
-8.138.125.130:8080,http,CN,elite,2333,,"Hangzhou Alibaba Advertising Co., Ltd.",18.33
-47.116.181.146:8081,http,CN,elite,2334,,"Hangzhou Alibaba Advertising Co., Ltd.",18.34
-47.92.152.43:9080,http,CN,elite,2347,,Hangzhou Alibaba Advertising Co,18.47
-47.237.92.86:8060,http,SG,elite,2354,,"Alibaba (US) Technology Co., Ltd.",18.54
-47.237.113.119:80,http,SG,elite,2360,,"Alibaba (US) Technology Co., Ltd.",18.6
-8.215.12.103:8008,http,ID,elite,2370,,Alibaba Cloud (Singapore) Private Limite,18.7
-8.213.195.191:9080,http,TH,elite,2388,,Alibaba Cloud (Singapore) Private Limite,18.88
-8.213.195.191:18080,http,TH,elite,2390,,Alibaba Cloud (Singapore) Private Limite,18.9
-8.213.222.157:100,http,TH,elite,2390,,"Alibaba (US) Technology Co., Ltd.",18.9
-8.213.197.208:3128,http,TH,elite,2391,,"Alibaba (US) Technology Co., Ltd.",18.91
-8.213.222.247:77,http,TH,elite,2391,,"Alibaba (US) Technology Co., Ltd.",18.91
-8.213.195.191:312,http,TH,elite,2392,,Alibaba Cloud (Singapore) Private Limite,18.92
-8.213.222.247:8081,http,TH,elite,2392,,"Alibaba (US) Technology Co., Ltd.",18.92
-39.102.209.128:1111,http,CN,elite,2994,,Hangzhou Alibaba Advertising Co,24.94
-46.100.44.35:8080,http,IR,transparent,2526,,Iran Telecommunication Company PJS,25.26
+45.130.127.10:80,http,US,elite,489,,Global Connectivity Solutions LLP,-0.11
+139.59.1.14:80,http,IN,elite,698,,DIGITALOCEAN,1.98
+124.163.236.54:7302,http,CN,elite,1498,,CNC Group CHINA169 Shan1xi Province Netw,9.98
+8.211.195.173:8013,http,GB,elite,2202,,"Alibaba (US) Technology Co., Ltd.",17.02
+8.211.200.183:5060,http,GB,elite,2216,,"Alibaba (US) Technology Co., Ltd.",17.16
+8.213.128.6:3128,http,KR,elite,2322,,"Alibaba (US) Technology Co., Ltd.",18.22
+8.213.128.6:10,http,KR,elite,2324,,"Alibaba (US) Technology Co., Ltd.",18.24
+47.238.134.126:1081,http,HK,elite,2355,,Alibaba Cloud LLC,18.55
+47.237.92.86:50,http,SG,elite,2398,,"Alibaba (US) Technology Co., Ltd.",18.98
+47.116.181.146:9090,http,CN,elite,2422,,"Hangzhou Alibaba Advertising Co., Ltd.",19.22
+8.212.165.164:8081,http,PH,elite,2425,,"Alibaba (US) Technology Co., Ltd.",19.25
+106.14.104.220:9080,http,CN,elite,2428,,Hangzhou Alibaba Advertising Co,19.28
+8.215.12.103:8447,http,ID,elite,2429,,Alibaba Cloud (Singapore) Private Limite,19.29
+47.91.115.179:7890,http,AE,elite,2431,,Alibaba Cloud LLC,19.31
+8.215.3.250:8000,http,ID,elite,2431,,Alibaba Cloud (Singapore) Private Limite,19.31
+47.91.110.148:8181,http,AE,elite,2438,,Alibaba Cloud LLC,19.38
+8.212.165.164:80,http,PH,elite,2438,,"Alibaba (US) Technology Co., Ltd.",19.38
+47.106.75.125:3128,http,CN,elite,2445,,Hangzhou Alibaba Advertising Co,19.45
+106.14.91.83:8123,http,CN,elite,2446,,Hangzhou Alibaba Advertising Co,19.46
+47.91.121.127:8118,http,AE,elite,2447,,Alibaba Cloud LLC,19.47
+47.121.129.129:3128,http,CN,elite,2456,,"Hangzhou Alibaba Advertising Co., Ltd.",19.56
+47.91.115.179:3129,http,AE,elite,2463,,Alibaba Cloud LLC,19.63
+39.102.210.176:6379,http,CN,elite,2467,,Hangzhou Alibaba Advertising Co,19.67
+39.102.213.213:3128,http,CN,elite,2473,,Hangzhou Alibaba Advertising Co,19.73
+39.100.88.89:20,http,CN,elite,2475,,Hangzhou Alibaba Advertising Co,19.75
+8.148.23.165:9098,http,CN,elite,2486,,"Hangzhou Alibaba Advertising Co., Ltd.",19.86
+110.238.113.119:10006,http,TH,elite,2717,,Huawei International Pte. LTD,22.17
