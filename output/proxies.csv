@@ -1,32 +1,25 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-107.174.80.186:3128,http,US,elite,469,,HostPapa,-0.31
-102.244.78.61:8080,http,CM,elite,742,,Orange CAM INTERNET,2.42
-47.254.36.213:8999,http,US,elite,2068,,Alibaba Cloud LLC,15.68
-47.251.87.74:9050,http,US,elite,2070,,Alibaba Cloud LLC,15.7
-8.211.51.115:8889,http,DE,elite,2250,,"Alibaba (US) Technology Co., Ltd.",17.5
-8.221.141.88:8101,http,JP,elite,2258,,"Alibaba (US) Technology Co., Ltd.",17.58
-8.221.138.111:5060,http,JP,elite,2261,,"Alibaba (US) Technology Co., Ltd.",17.61
-47.91.29.151:1080,http,JP,elite,2267,,Alibaba.com LLC,17.67
-8.213.156.191:888,http,KR,elite,2295,,"Alibaba (US) Technology Co., Ltd.",17.95
-8.213.128.6:90,http,KR,elite,2296,,"Alibaba (US) Technology Co., Ltd.",17.96
-8.213.134.213:9098,http,KR,elite,2298,,"Alibaba (US) Technology Co., Ltd.",17.98
-8.220.204.92:30001,http,KR,elite,2303,,"Alibaba (US) Technology Co., Ltd.",18.03
-8.213.128.6:3129,http,KR,elite,2306,,"Alibaba (US) Technology Co., Ltd.",18.06
-47.238.128.246:17,http,HK,elite,2349,,Alibaba Cloud LLC,18.49
-47.238.130.212:5060,http,HK,elite,2353,,Alibaba Cloud LLC,18.53
-8.210.17.35:4002,http,HK,elite,2370,,Alibaba.com LLC,18.7
-139.196.175.68:8080,http,CN,elite,2408,,Hangzhou Alibaba Advertising Co,19.08
-8.212.168.170:100,http,PH,elite,2416,,"Alibaba (US) Technology Co., Ltd.",19.16
-8.212.168.170:1080,http,PH,elite,2416,,"Alibaba (US) Technology Co., Ltd.",19.16
-47.91.110.148:69,http,AE,elite,2422,,Alibaba Cloud LLC,19.22
-149.129.255.179:2020,http,ID,elite,2425,,Alibaba.com Singapore E-Commerce Private,19.25
-8.212.151.166:9797,http,PH,elite,2427,,"Alibaba (US) Technology Co., Ltd.",19.27
-47.99.112.148:8118,http,CN,elite,2432,,Aliyun Computing Co,19.32
-120.25.189.254:8008,http,CN,elite,2434,,"Hangzhou Alibaba Advertising Co., Ltd.",19.34
-47.112.11.170:13,http,CN,elite,2435,,Addresses CNNIC,19.35
-47.116.181.146:1088,http,CN,elite,2436,,"Hangzhou Alibaba Advertising Co., Ltd.",19.36
-8.212.168.170:623,http,PH,elite,2450,,"Alibaba (US) Technology Co., Ltd.",19.5
-8.148.23.165:80,http,CN,elite,2453,,"Hangzhou Alibaba Advertising Co., Ltd.",19.53
-8.148.4.166:9098,http,CN,elite,2480,,"Hangzhou Alibaba Advertising Co., Ltd.",19.8
-39.104.23.154:1111,http,CN,elite,2481,,Hangzhou Alibaba Advertising Co,19.81
-8.220.136.174:8091,http,PH,elite,2484,,"Alibaba (US) Technology Co., Ltd.",19.84
+219.93.101.60:80,http,MY,anonymous,964,,ADSL Streamyx Telekom Malaysia,7.64
+159.195.194.242:8080,http,DE,elite,1323,,netcup GmbH,8.23
+47.90.167.27:9080,http,US,elite,2074,,Alibaba.com LLC,15.74
+47.254.36.213:20,http,US,elite,2085,,Alibaba Cloud LLC,15.85
+47.251.87.74:4002,http,US,elite,2088,,Alibaba Cloud LLC,15.88
+8.221.141.88:4145,http,JP,elite,2285,,"Alibaba (US) Technology Co., Ltd.",17.85
+8.213.134.213:6666,http,KR,elite,2313,,"Alibaba (US) Technology Co., Ltd.",18.13
+8.213.128.6:1337,http,KR,elite,2316,,"Alibaba (US) Technology Co., Ltd.",18.16
+47.250.177.202:8443,http,MY,elite,2410,,"Alibaba (US) Technology Co., Ltd.",19.1
+47.116.181.146:30000,http,CN,elite,2431,,"Hangzhou Alibaba Advertising Co., Ltd.",19.31
+8.215.15.163:104,http,ID,elite,2438,,"Alibaba (US) Technology Co., Ltd.",19.38
+160.22.45.58:8080,http,ID,transparent,1946,,CELEBESMULTINET,19.46
+47.119.22.92:10000,http,CN,elite,2449,,Addresses CNNIC,19.49
+47.119.19.221:3128,http,CN,elite,2449,,Addresses CNNIC,19.49
+47.74.46.81:18080,http,JP,elite,2459,,Alibaba Cloud LLC,19.59
+47.104.28.135:8081,http,CN,elite,2463,,Hangzhou Alibaba Advertising Co,19.63
+8.148.23.165:1234,http,CN,elite,2469,,"Hangzhou Alibaba Advertising Co., Ltd.",19.69
+8.130.71.75:9098,http,CN,elite,2476,,"Hangzhou Alibaba Advertising Co., Ltd.",19.76
+8.130.36.163:8080,http,CN,elite,2482,,"Hangzhou Alibaba Advertising Co., Ltd.",19.82
+8.130.71.75:8119,http,CN,elite,2484,,"Hangzhou Alibaba Advertising Co., Ltd.",19.84
+39.100.88.89:34567,http,CN,elite,2487,,Hangzhou Alibaba Advertising Co,19.87
+8.137.62.53:3128,http,CN,elite,2540,,"Hangzhou Alibaba Advertising Co., Ltd.",20.4
+45.130.127.10:80,http,US,elite,2774,,Global Connectivity Solutions LLP,22.74
+23.138.88.1:999,http,PR,transparent,2651,,Alphanet Corp,26.51
