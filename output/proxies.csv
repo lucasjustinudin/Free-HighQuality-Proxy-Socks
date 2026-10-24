@@ -1,32 +1,23 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-45.239.175.60:8080,http,BR,elite,540,,Estarnet Ltda-me,0.4
-35.78.212.217:14185,http,JP,elite,616,,"Amazon.com, Inc.",1.16
-77.42.95.221:8889,http,FI,transparent,476,,Hetzner Online GmbH,4.76
-112.169.99.71:8007,http,KR,elite,1061,,Korea Telecom,5.61
-47.90.149.238:8888,http,US,elite,2008,,Alibaba.com LLC,15.08
-182.52.113.54:80,http,TH,transparent,1611,,TOT Public Company Limited,16.11
-8.211.194.78:9080,http,GB,elite,2158,,"Alibaba (US) Technology Co., Ltd.",16.58
-201.4.69.113:8080,http,SY,transparent,1812,,High Speed For Internet Services L.L.C,18.12
-8.221.139.222:9098,http,JP,elite,2325,,"Alibaba (US) Technology Co., Ltd.",18.25
-47.91.109.17:89,http,AE,elite,2341,,Alibaba Cloud LLC,18.41
-8.213.128.6:7657,http,KR,elite,2363,,"Alibaba (US) Technology Co., Ltd.",18.63
-8.213.128.6:6000,http,KR,elite,2372,,"Alibaba (US) Technology Co., Ltd.",18.72
-8.210.17.35:8002,http,HK,elite,2407,,Alibaba.com LLC,19.07
-47.238.128.246:8081,http,HK,elite,2414,,Alibaba Cloud LLC,19.14
-8.215.12.103:8009,http,ID,elite,2472,,Alibaba Cloud (Singapore) Private Limite,19.72
-8.215.15.163:8888,http,ID,elite,2489,,"Alibaba (US) Technology Co., Ltd.",19.89
-8.213.222.247:8888,http,TH,elite,2493,,"Alibaba (US) Technology Co., Ltd.",19.93
-120.26.52.35:8090,http,CN,elite,2494,,"Hangzhou Alibaba Advertising Co., Ltd.",19.94
-47.121.183.107:9080,http,CN,elite,2498,,"Hangzhou Alibaba Advertising Co., Ltd.",19.98
-47.112.19.200:3128,http,CN,elite,2500,,Addresses CNNIC,20.0
-8.213.215.187:443,http,TH,elite,2501,,"Alibaba (US) Technology Co., Ltd.",20.01
-8.220.136.174:8008,http,PH,elite,2511,,"Alibaba (US) Technology Co., Ltd.",20.11
-39.102.213.50:8443,http,CN,elite,2512,,Hangzhou Alibaba Advertising Co,20.12
-39.102.209.163:8090,http,CN,elite,2514,,Hangzhou Alibaba Advertising Co,20.14
-39.102.213.187:8181,http,CN,elite,2517,,Hangzhou Alibaba Advertising Co,20.17
-39.104.27.89:9098,http,CN,elite,2525,,Hangzhou Alibaba Advertising Co,20.25
-47.109.110.100:9080,http,CN,elite,2544,,Hangzhou Alibaba Advertising Co,20.44
-47.109.83.196:8008,http,CN,elite,2545,,Hangzhou Alibaba Advertising Co,20.45
-39.104.23.154:8081,http,CN,elite,2549,,Hangzhou Alibaba Advertising Co,20.49
-39.104.59.56:7878,http,CN,elite,2652,,Hangzhou Alibaba Advertising Co,21.52
-103.191.218.214:8080,http,ID,transparent,2370,,PT Replay Inti Media,23.7
+46.35.9.110:80,http,FR,elite,411,,Societe Francaise Du Radiotelephone - SF,-0.89
+114.55.168.172:8080,http,CN,elite,1021,,Hangzhou Alibaba Advertising Co,5.21
+206.135.47.108:999,http,MX,transparent,1387,,Ientc S De RL De CV,13.87
+8.211.49.86:9098,http,DE,elite,2198,,"Alibaba (US) Technology Co., Ltd.",16.98
+8.221.139.222:6379,http,JP,elite,2335,,"Alibaba (US) Technology Co., Ltd.",18.35
+8.221.139.222:800,http,JP,elite,2335,,"Alibaba (US) Technology Co., Ltd.",18.35
+8.213.128.6:6000,http,KR,elite,2376,,"Alibaba (US) Technology Co., Ltd.",18.76
+47.238.60.156:80,http,HK,elite,2423,,Alibaba Cloud LLC,19.23
+47.238.60.156:1234,http,HK,elite,2424,,Alibaba Cloud LLC,19.24
+47.237.2.245:45,http,SG,elite,2449,,"Alibaba (US) Technology Co., Ltd.",19.49
+47.237.2.245:443,http,SG,elite,2451,,"Alibaba (US) Technology Co., Ltd.",19.51
+47.112.11.170:8123,http,CN,elite,2495,,Addresses CNNIC,19.95
+149.129.255.179:9091,http,ID,elite,2499,,Alibaba.com Singapore E-Commerce Private,19.99
+106.15.137.41:50,http,CN,elite,2502,,Hangzhou Alibaba Advertising Co,20.02
+39.102.208.149:9050,http,CN,elite,2512,,Hangzhou Alibaba Advertising Co,20.12
+47.116.181.146:5060,http,CN,elite,2513,,"Hangzhou Alibaba Advertising Co., Ltd.",20.13
+39.102.214.199:41890,http,CN,elite,2522,,Hangzhou Alibaba Advertising Co,20.22
+8.130.54.67:1081,http,CN,elite,2546,,"Hangzhou Alibaba Advertising Co., Ltd.",20.46
+139.224.186.221:80,http,CN,elite,2553,,Addresses CNNIC,20.53
+8.137.38.48:18080,http,CN,elite,2556,,"Hangzhou Alibaba Advertising Co., Ltd.",20.56
+8.130.90.177:999,http,CN,elite,2560,,"Hangzhou Alibaba Advertising Co., Ltd.",20.6
+116.62.81.204:1081,http,CN,elite,2704,,CNC Group CHINA169 Fujian Province Netwo,22.04
