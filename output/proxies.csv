@@ -1,32 +1,26 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-45.239.175.60:8080,http,BR,elite,744,,Estarnet Ltda-me,2.44
-131.221.65.109:8090,http,AR,transparent,904,,Level Seven SRL,9.04
-47.89.159.212:93,http,US,elite,2064,,Alibaba.com LLC,15.64
-47.251.87.74:85,http,US,elite,2088,,Alibaba Cloud LLC,15.88
-8.211.194.85:1081,http,GB,elite,2203,,"Alibaba (US) Technology Co., Ltd.",17.03
-8.211.194.78:6666,http,GB,elite,2229,,"Alibaba (US) Technology Co., Ltd.",17.29
-8.211.195.173:1080,http,GB,elite,2230,,"Alibaba (US) Technology Co., Ltd.",17.3
-8.221.141.88:1027,http,JP,elite,2272,,"Alibaba (US) Technology Co., Ltd.",17.72
-8.221.141.88:9507,http,JP,elite,2273,,"Alibaba (US) Technology Co., Ltd.",17.73
-47.74.46.81:3128,http,JP,elite,2274,,Alibaba Cloud LLC,17.74
-8.221.138.111:8443,http,JP,elite,2275,,"Alibaba (US) Technology Co., Ltd.",17.75
-8.213.128.6:8050,http,KR,elite,2319,,"Alibaba (US) Technology Co., Ltd.",18.19
-8.213.128.6:6000,http,KR,elite,2319,,"Alibaba (US) Technology Co., Ltd.",18.19
-8.220.204.92:8123,http,KR,elite,2319,,"Alibaba (US) Technology Co., Ltd.",18.19
-8.213.156.191:199,http,KR,elite,2320,,"Alibaba (US) Technology Co., Ltd.",18.2
-120.25.189.254:9098,http,CN,elite,2438,,"Hangzhou Alibaba Advertising Co., Ltd.",19.38
-8.138.131.110:80,http,CN,elite,2439,,"Hangzhou Alibaba Advertising Co., Ltd.",19.39
-8.213.222.247:13,http,TH,elite,2450,,"Alibaba (US) Technology Co., Ltd.",19.5
-8.220.136.174:8086,http,PH,elite,2454,,"Alibaba (US) Technology Co., Ltd.",19.54
-8.146.200.53:80,http,CN,elite,2456,,"Hangzhou Alibaba Advertising Co., Ltd.",19.56
-39.102.213.50:8089,http,CN,elite,2468,,Hangzhou Alibaba Advertising Co,19.68
-39.100.88.89:8089,http,CN,elite,2470,,Hangzhou Alibaba Advertising Co,19.7
-39.104.69.76:8443,http,CN,elite,2475,,Hangzhou Alibaba Advertising Co,19.75
-8.130.90.177:8081,http,CN,elite,2478,,"Hangzhou Alibaba Advertising Co., Ltd.",19.78
-39.104.69.76:9090,http,CN,elite,2506,,Hangzhou Alibaba Advertising Co,20.06
-144.79.180.37:8080,http,ID,transparent,2073,,PT SAHABAT INDONESIA INTERNET,20.73
-47.121.133.212:9098,http,CN,elite,2692,,"Hangzhou Alibaba Advertising Co., Ltd.",21.92
-103.175.240.42:3128,http,ID,transparent,2300,,LDP,23.0
-38.58.117.72:8080,http,ID,transparent,2448,,PT Lintas Jaringan Nusantara,24.48
-180.191.2.166:8081,http,PH,transparent,2506,,Globe Telecom,25.06
-45.186.6.104:3128,http,EC,transparent,2576,,Perez Tito Julio Cesar,25.76
+154.40.48.68:8080,http,US,elite,105,,NetLab Global,-3.95
+185.235.16.12:80,http,SY,transparent,612,,Syrian Telecom,6.12
+14.29.236.128:7897,http,CN,transparent,851,,Chinanet,8.51
+111.199.234.107:9000,http,CN,transparent,932,,China Unicom Beijing Province Network,9.32
+8.211.200.183:8090,http,GB,elite,2221,,"Alibaba (US) Technology Co., Ltd.",17.21
+8.220.205.172:9098,http,KR,elite,2312,,"Alibaba (US) Technology Co., Ltd.",18.12
+47.238.130.212:8888,http,HK,elite,2358,,Alibaba Cloud LLC,18.58
+47.238.128.246:90,http,HK,elite,2363,,Alibaba Cloud LLC,18.63
+47.91.120.190:1081,http,AE,elite,2364,,Alibaba Cloud LLC,18.64
+47.91.121.127:6379,http,AE,elite,2372,,Alibaba Cloud LLC,18.72
+47.237.92.86:41,http,SG,elite,2400,,"Alibaba (US) Technology Co., Ltd.",19.0
+8.220.136.174:8081,http,PH,elite,2420,,"Alibaba (US) Technology Co., Ltd.",19.2
+101.132.249.207:8008,http,CN,elite,2424,,Hangzhou Alibaba Advertising Co,19.24
+149.129.226.9:93,http,ID,elite,2432,,Alibaba.com Singapore E-Commerce Private,19.32
+106.14.104.220:3128,http,CN,elite,2435,,Hangzhou Alibaba Advertising Co,19.35
+121.43.154.123:7788,http,CN,elite,2441,,"Hangzhou Alibaba Advertising Co., Ltd.",19.41
+47.106.198.144:2000,http,CN,elite,2448,,Hangzhou Alibaba Advertising Co,19.48
+8.212.168.170:10000,http,PH,elite,2451,,"Alibaba (US) Technology Co., Ltd.",19.51
+47.121.183.107:3128,http,CN,elite,2452,,"Hangzhou Alibaba Advertising Co., Ltd.",19.52
+47.91.109.17:6379,http,AE,elite,2470,,Alibaba Cloud LLC,19.7
+39.102.214.199:8081,http,CN,elite,2472,,Hangzhou Alibaba Advertising Co,19.72
+39.102.209.121:8888,http,CN,elite,2473,,Hangzhou Alibaba Advertising Co,19.73
+47.92.194.235:12345,http,CN,elite,2478,,Hangzhou Alibaba Advertising Co,19.78
+47.92.194.235:20000,http,CN,elite,2479,,Hangzhou Alibaba Advertising Co,19.79
+103.92.218.121:9514,http,BD,elite,2955,,Md Rezaul Karim,24.55
