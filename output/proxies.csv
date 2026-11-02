@@ -1,46 +1,27 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-34.136.200.110:80,http,US,elite,100,,Google LLC,-4.0
-77.38.244.214:80,http,LV,elite,580,,"SIA ""BITE Latvija""",0.8
-103.39.75.123:8080,http,ID,transparent,1432,,PT. GOLDEN NETWORK NUSANTARA,14.32
-47.90.149.238:10008,http,US,elite,2127,,Alibaba.com LLC,16.27
-47.252.11.233:8443,http,US,elite,2136,,Alibaba Cloud LLC,16.36
-47.74.46.81:98,http,JP,elite,2217,,Alibaba Cloud LLC,17.17
-8.221.138.111:8192,http,JP,elite,2217,,"Alibaba (US) Technology Co., Ltd.",17.17
-8.221.141.88:9036,http,JP,elite,2217,,"Alibaba (US) Technology Co., Ltd.",17.17
-8.211.200.183:1720,http,GB,elite,2287,,"Alibaba (US) Technology Co., Ltd.",17.87
-8.211.195.173:5555,http,GB,elite,2287,,"Alibaba (US) Technology Co., Ltd.",17.87
-47.238.128.246:5000,http,HK,elite,2295,,Alibaba Cloud LLC,17.95
-8.209.96.245:193,http,DE,elite,2295,,Alibaba.com Singapore E-Commerce Private,17.95
-47.238.134.126:888,http,HK,elite,2296,,Alibaba Cloud LLC,17.96
-47.76.144.139:81,http,HK,elite,2297,,Alibaba Cloud LLC,17.97
-8.209.96.245:100,http,DE,elite,2297,,Alibaba.com Singapore E-Commerce Private,17.97
-8.209.96.245:8443,http,DE,elite,2297,,Alibaba.com Singapore E-Commerce Private,17.97
-47.91.89.3:1080,http,DE,elite,2298,,Alibaba.com LLC,17.98
-47.237.92.86:6379,http,SG,elite,2340,,"Alibaba (US) Technology Co., Ltd.",18.4
-47.237.2.245:3128,http,SG,elite,2344,,"Alibaba (US) Technology Co., Ltd.",18.44
-8.220.136.174:8084,http,PH,elite,2362,,"Alibaba (US) Technology Co., Ltd.",18.62
-149.129.226.9:9090,http,ID,elite,2364,,Alibaba.com Singapore E-Commerce Private,18.64
-8.220.136.174:80,http,PH,elite,2364,,"Alibaba (US) Technology Co., Ltd.",18.64
-8.212.168.170:4431,http,PH,elite,2366,,"Alibaba (US) Technology Co., Ltd.",18.66
-120.79.217.196:9000,http,CN,elite,2386,,Hangzhou Alibaba Advertising Co,18.86
-8.213.197.208:9091,http,TH,elite,2394,,"Alibaba (US) Technology Co., Ltd.",18.94
-39.102.209.163:10002,http,CN,elite,2398,,Hangzhou Alibaba Advertising Co,18.98
-8.213.195.191:8000,http,TH,elite,2398,,Alibaba Cloud (Singapore) Private Limite,18.98
-8.213.197.208:8000,http,TH,elite,2400,,"Alibaba (US) Technology Co., Ltd.",19.0
-121.43.109.88:8008,http,CN,elite,2402,,"Hangzhou Alibaba Advertising Co., Ltd.",19.02
-8.213.195.191:4002,http,TH,elite,2402,,Alibaba Cloud (Singapore) Private Limite,19.02
-39.102.214.208:8080,http,CN,elite,2407,,Hangzhou Alibaba Advertising Co,19.07
-120.25.189.254:3129,http,CN,elite,2408,,"Hangzhou Alibaba Advertising Co., Ltd.",19.08
-39.102.213.3:9098,http,CN,elite,2409,,Hangzhou Alibaba Advertising Co,19.09
-39.102.214.192:8090,http,CN,elite,2414,,Hangzhou Alibaba Advertising Co,19.14
-47.92.82.167:8085,http,CN,elite,2415,,Hangzhou Alibaba Advertising Co,19.15
-39.102.213.187:30000,http,CN,elite,2417,,Hangzhou Alibaba Advertising Co,19.17
-39.102.209.121:3128,http,CN,elite,2418,,Hangzhou Alibaba Advertising Co,19.18
-39.100.88.89:2000,http,CN,elite,2425,,Hangzhou Alibaba Advertising Co,19.25
-39.102.213.3:8008,http,CN,elite,2427,,Hangzhou Alibaba Advertising Co,19.27
-47.92.152.43:9080,http,CN,elite,2432,,Hangzhou Alibaba Advertising Co,19.32
-8.130.36.163:9999,http,CN,elite,2433,,"Hangzhou Alibaba Advertising Co., Ltd.",19.33
-106.15.137.41:8333,http,CN,elite,2439,,Hangzhou Alibaba Advertising Co,19.39
-39.102.211.64:8081,http,CN,elite,2442,,Hangzhou Alibaba Advertising Co,19.42
-124.105.42.227:8081,http,PH,transparent,2197,,Philippine Long Distance Telephone Co.,21.97
-195.123.190.37:8585,http,SY,transparent,2333,,Abdul Rahman Mustafa trading as Alfateh ,23.33
+139.162.78.109:80,http,JP,elite,374,,"Akamai Technologies, Inc.",-1.26
+62.210.215.36:80,http,FR,anonymous,455,,Scaleway SAS,2.55
+154.65.39.8:80,http,SN,elite,798,,Tigo Public IP,2.98
+147.161.246.38:11118,http,CH,transparent,539,,Zscaler Switzerland GmbH,5.39
+47.254.36.213:999,http,US,elite,2039,,Alibaba Cloud LLC,15.39
+47.251.73.54:92,http,US,elite,2042,,Alibaba Cloud LLC,15.42
+47.90.149.238:312,http,US,elite,2111,,Alibaba.com LLC,16.11
+47.91.29.151:8585,http,JP,elite,2224,,Alibaba.com LLC,17.24
+8.221.141.88:9507,http,JP,elite,2224,,"Alibaba (US) Technology Co., Ltd.",17.24
+8.221.139.222:8889,http,JP,elite,2224,,"Alibaba (US) Technology Co., Ltd.",17.24
+8.213.128.6:9090,http,KR,elite,2271,,"Alibaba (US) Technology Co., Ltd.",17.71
+47.238.130.212:80,http,HK,elite,2309,,Alibaba Cloud LLC,18.09
+47.238.60.156:8080,http,HK,elite,2311,,Alibaba Cloud LLC,18.11
+47.238.134.126:100,http,HK,elite,2335,,Alibaba Cloud LLC,18.35
+47.250.177.202:9080,http,MY,elite,2365,,"Alibaba (US) Technology Co., Ltd.",18.65
+47.250.155.254:80,http,MY,elite,2377,,"Alibaba (US) Technology Co., Ltd.",18.77
+8.215.3.250:9000,http,ID,elite,2379,,Alibaba Cloud (Singapore) Private Limite,18.79
+8.212.165.164:5000,http,PH,elite,2394,,"Alibaba (US) Technology Co., Ltd.",18.94
+8.213.222.247:8443,http,TH,elite,2409,,"Alibaba (US) Technology Co., Ltd.",19.09
+47.252.18.37:8888,http,US,elite,2410,,Alibaba Cloud LLC,19.1
+47.121.182.36:8888,http,CN,elite,2414,,"Hangzhou Alibaba Advertising Co., Ltd.",19.14
+106.14.104.220:3129,http,CN,elite,2416,,Hangzhou Alibaba Advertising Co,19.16
+47.92.152.43:8443,http,CN,elite,2440,,Hangzhou Alibaba Advertising Co,19.4
+8.137.62.53:8081,http,CN,elite,2449,,"Hangzhou Alibaba Advertising Co., Ltd.",19.49
+8.220.204.92:6379,http,KR,elite,2669,,"Alibaba (US) Technology Co., Ltd.",21.69
+45.190.170.0:999,http,PE,transparent,2629,,Softbutterfly SAC,26.29
