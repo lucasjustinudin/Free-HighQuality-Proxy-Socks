@@ -1,49 +1,34 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-144.124.251.24:10314,http,NL,elite,518,,Servers Tech Fzco,0.18
-202.133.88.173:80,http,FR,elite,581,,BitCommand LLC,0.81
-103.131.19.51:8080,http,ID,elite,1082,,PT Global Media Data Prima,5.82
-45.189.57.114:3129,http,EC,transparent,761,,Cbvision S.A.,7.61
-197.164.101.10:1976,http,EG,transparent,920,,Link Egypt (Link.NET),9.2
-47.252.18.37:8118,http,US,elite,2061,,Alibaba Cloud LLC,15.61
-47.251.87.199:999,http,US,elite,2080,,Alibaba Cloud LLC,15.8
-47.251.87.199:4443,http,US,elite,2080,,Alibaba Cloud LLC,15.8
-125.25.167.196:8080,http,TH,transparent,1679,,TOT Public Company Limited,16.79
-8.211.194.78:443,http,GB,elite,2215,,"Alibaba (US) Technology Co., Ltd.",17.15
-8.209.96.245:4153,http,DE,elite,2237,,Alibaba.com Singapore E-Commerce Private,17.37
-8.209.96.245:8082,http,DE,elite,2240,,Alibaba.com Singapore E-Commerce Private,17.4
-47.91.29.151:8888,http,JP,elite,2277,,Alibaba.com LLC,17.77
-8.221.141.88:79,http,JP,elite,2279,,"Alibaba (US) Technology Co., Ltd.",17.79
-8.221.141.88:1720,http,JP,elite,2281,,"Alibaba (US) Technology Co., Ltd.",17.81
-165.101.43.125:8080,http,ID,transparent,1820,,PT Lintas Jaringan Nusantara,18.2
-8.213.134.213:8008,http,KR,elite,2321,,"Alibaba (US) Technology Co., Ltd.",18.21
-8.220.204.92:3128,http,KR,elite,2325,,"Alibaba (US) Technology Co., Ltd.",18.25
-47.76.144.139:6379,http,HK,elite,2353,,Alibaba Cloud LLC,18.53
-47.238.128.246:17,http,HK,elite,2355,,Alibaba Cloud LLC,18.55
-47.76.144.139:8123,http,HK,elite,2360,,Alibaba Cloud LLC,18.6
-47.91.115.179:8443,http,AE,elite,2365,,Alibaba Cloud LLC,18.65
-47.250.51.110:6379,http,MY,elite,2412,,Alibaba Cloud LLC,19.12
-47.250.51.110:8443,http,MY,elite,2412,,Alibaba Cloud LLC,19.12
-8.215.3.250:199,http,ID,elite,2423,,Alibaba Cloud (Singapore) Private Limite,19.23
-8.212.168.170:808,http,PH,elite,2424,,"Alibaba (US) Technology Co., Ltd.",19.24
-8.138.149.37:80,http,CN,elite,2440,,"Hangzhou Alibaba Advertising Co., Ltd.",19.4
-8.220.141.8:10000,http,PH,elite,2447,,"Alibaba (US) Technology Co., Ltd.",19.47
-8.213.222.247:8083,http,TH,elite,2449,,"Alibaba (US) Technology Co., Ltd.",19.49
-8.212.165.164:5002,http,PH,elite,2452,,"Alibaba (US) Technology Co., Ltd.",19.52
-39.102.214.152:10002,http,CN,elite,2457,,Hangzhou Alibaba Advertising Co,19.57
-39.102.208.23:9080,http,CN,elite,2458,,Hangzhou Alibaba Advertising Co,19.58
-39.102.211.162:4145,http,CN,elite,2460,,Hangzhou Alibaba Advertising Co,19.6
-8.148.20.126:1337,http,CN,elite,2461,,"Hangzhou Alibaba Advertising Co., Ltd.",19.61
-47.121.183.107:4006,http,CN,elite,2462,,"Hangzhou Alibaba Advertising Co., Ltd.",19.62
-39.102.209.163:9999,http,CN,elite,2464,,Hangzhou Alibaba Advertising Co,19.64
-39.102.208.23:10002,http,CN,elite,2469,,Hangzhou Alibaba Advertising Co,19.69
-39.102.213.213:80,http,CN,elite,2470,,Hangzhou Alibaba Advertising Co,19.7
-39.102.214.192:9098,http,CN,elite,2472,,Hangzhou Alibaba Advertising Co,19.72
-8.130.54.67:9080,http,CN,elite,2474,,"Hangzhou Alibaba Advertising Co., Ltd.",19.74
-8.130.74.114:1234,http,CN,elite,2474,,"Hangzhou Alibaba Advertising Co., Ltd.",19.74
-8.148.22.214:20002,http,CN,elite,2476,,"Hangzhou Alibaba Advertising Co., Ltd.",19.76
-8.130.37.235:1081,http,CN,elite,2488,,"Hangzhou Alibaba Advertising Co., Ltd.",19.88
-8.148.24.225:83,http,CN,elite,2491,,"Hangzhou Alibaba Advertising Co., Ltd.",19.91
-47.112.11.170:13,http,CN,elite,2543,,Addresses CNNIC,20.43
-143.208.152.62:3180,http,BR,transparent,2097,,Fibra Empresas Ltda,20.97
-190.97.246.194:999,http,VE,transparent,2449,,Viginet C.A,24.49
-103.176.174.100:8080,http,BD,transparent,2917,,Penta-Six Communication,29.17
+72.56.73.23:80,http,NL,elite,431,,"Timeweb, LLP",-0.69
+62.210.215.36:80,http,FR,anonymous,343,,Scaleway SAS,1.43
+47.90.167.27:60000,http,US,elite,2006,,Alibaba.com LLC,15.06
+47.254.36.213:80,http,US,elite,2131,,Alibaba Cloud LLC,16.31
+8.211.194.85:20002,http,GB,elite,2159,,"Alibaba (US) Technology Co., Ltd.",16.59
+8.211.51.115:4022,http,DE,elite,2188,,"Alibaba (US) Technology Co., Ltd.",16.88
+47.91.89.3:35,http,DE,elite,2190,,Alibaba.com LLC,16.9
+47.91.110.148:13,http,AE,elite,2318,,Alibaba Cloud LLC,18.18
+47.91.29.151:31281,http,JP,elite,2321,,Alibaba.com LLC,18.21
+47.91.29.151:33427,http,JP,elite,2328,,Alibaba.com LLC,18.28
+47.91.120.190:104,http,AE,elite,2348,,Alibaba Cloud LLC,18.48
+8.211.195.139:4100,http,GB,elite,2355,,"Alibaba (US) Technology Co., Ltd.",18.55
+8.213.156.191:3129,http,KR,elite,2362,,"Alibaba (US) Technology Co., Ltd.",18.62
+8.220.204.92:90,http,KR,elite,2369,,"Alibaba (US) Technology Co., Ltd.",18.69
+8.220.204.215:8008,http,KR,elite,2370,,"Alibaba (US) Technology Co., Ltd.",18.7
+47.238.134.126:8291,http,HK,elite,2398,,Alibaba Cloud LLC,18.98
+47.76.144.139:59394,http,HK,elite,2402,,Alibaba Cloud LLC,19.02
+8.219.229.53:84,http,SG,elite,2439,,"Alibaba (US) Technology Co., Ltd.",19.39
+47.237.113.119:999,http,SG,elite,2447,,"Alibaba (US) Technology Co., Ltd.",19.47
+47.237.107.41:808,http,SG,elite,2448,,"Alibaba (US) Technology Co., Ltd.",19.48
+47.250.11.111:81,http,MY,elite,2451,,Alibaba Cloud LLC,19.51
+47.250.159.65:9098,http,MY,elite,2451,,"Alibaba (US) Technology Co., Ltd.",19.51
+8.212.151.166:9050,http,PH,elite,2468,,"Alibaba (US) Technology Co., Ltd.",19.68
+121.43.154.123:9080,http,CN,elite,2473,,"Hangzhou Alibaba Advertising Co., Ltd.",19.73
+47.116.210.163:8080,http,CN,elite,2476,,"Hangzhou Alibaba Advertising Co., Ltd.",19.76
+47.121.182.88:80,http,CN,elite,2500,,"Hangzhou Alibaba Advertising Co., Ltd.",20.0
+8.220.136.174:8081,http,PH,elite,2502,,"Alibaba (US) Technology Co., Ltd.",20.02
+39.102.209.163:8081,http,CN,elite,2515,,Hangzhou Alibaba Advertising Co,20.15
+8.148.22.214:8080,http,CN,elite,2520,,"Hangzhou Alibaba Advertising Co., Ltd.",20.2
+39.102.213.187:30000,http,CN,elite,2525,,Hangzhou Alibaba Advertising Co,20.25
+47.92.152.43:9098,http,CN,elite,2530,,Hangzhou Alibaba Advertising Co,20.3
+188.132.249.141:8080,http,TR,transparent,2294,,High Speed For Internet Services L.L.C,22.94
+103.80.214.177:8080,http,ID,transparent,2916,,PT Redi Revolusi Digital Solusi,29.16
