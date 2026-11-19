@@ -1,42 +1,43 @@
 proxy,proto,country,anonymity,latency_ms,speed_kbs,isp,score
-195.114.209.50:80,http,ES,elite,522,,Gigas Hosting SL,0.22
-144.124.251.24:10689,http,NL,elite,533,,Servers Tech Fzco,0.33
-51.85.44.149:8928,http,IL,elite,665,,"Amazon.com, Inc.",1.65
-38.211.76.201:999,http,CO,transparent,1508,,Cogent Communications,15.08
-47.90.167.27:800,http,US,elite,2071,,Alibaba.com LLC,15.71
-47.91.89.3:8081,http,DE,elite,2233,,Alibaba.com LLC,17.33
-8.211.51.115:144,http,DE,elite,2234,,"Alibaba (US) Technology Co., Ltd.",17.34
-8.221.141.88:4321,http,JP,elite,2257,,"Alibaba (US) Technology Co., Ltd.",17.57
-47.74.46.81:3129,http,JP,elite,2259,,Alibaba Cloud LLC,17.59
-8.213.134.213:41,http,KR,elite,2295,,"Alibaba (US) Technology Co., Ltd.",17.95
-8.213.128.6:999,http,KR,elite,2298,,"Alibaba (US) Technology Co., Ltd.",17.98
-8.213.134.213:8889,http,KR,elite,2299,,"Alibaba (US) Technology Co., Ltd.",17.99
-8.213.128.6:9443,http,KR,elite,2303,,"Alibaba (US) Technology Co., Ltd.",18.03
-8.213.156.191:199,http,KR,elite,2305,,"Alibaba (US) Technology Co., Ltd.",18.05
-47.238.60.156:81,http,HK,elite,2343,,Alibaba Cloud LLC,18.43
-8.210.17.35:8082,http,HK,elite,2343,,Alibaba.com LLC,18.43
-47.238.134.126:8058,http,HK,elite,2348,,Alibaba Cloud LLC,18.48
-39.102.208.23:5566,http,CN,elite,2354,,Hangzhou Alibaba Advertising Co,18.54
-39.102.208.236:8090,http,CN,elite,2361,,Hangzhou Alibaba Advertising Co,18.61
-39.102.208.23:80,http,CN,elite,2372,,Hangzhou Alibaba Advertising Co,18.72
-47.92.194.235:8800,http,CN,elite,2372,,Hangzhou Alibaba Advertising Co,18.72
-39.104.59.56:9098,http,CN,elite,2374,,Hangzhou Alibaba Advertising Co,18.74
-47.92.219.102:6379,http,CN,elite,2374,,Hangzhou Alibaba Advertising Co,18.74
-47.92.194.235:3128,http,CN,elite,2376,,Hangzhou Alibaba Advertising Co,18.76
-47.91.109.17:1000,http,AE,elite,2382,,Alibaba Cloud LLC,18.82
-47.250.11.111:8085,http,MY,elite,2399,,Alibaba Cloud LLC,18.99
-47.250.159.65:8080,http,MY,elite,2400,,"Alibaba (US) Technology Co., Ltd.",19.0
-47.250.155.254:41451,http,MY,elite,2409,,"Alibaba (US) Technology Co., Ltd.",19.09
-47.91.115.179:45,http,AE,elite,2420,,Alibaba Cloud LLC,19.2
-139.224.186.221:1337,http,CN,elite,2421,,Addresses CNNIC,19.21
-47.119.22.92:8443,http,CN,elite,2430,,Addresses CNNIC,19.3
-47.119.164.33:3128,http,CN,elite,2433,,Addresses CNNIC,19.33
-47.119.22.92:8008,http,CN,elite,2440,,Addresses CNNIC,19.4
-47.112.15.44:999,http,CN,elite,2441,,Addresses CNNIC,19.41
-8.213.215.187:8443,http,TH,elite,2441,,"Alibaba (US) Technology Co., Ltd.",19.41
-8.138.133.207:10000,http,CN,elite,2442,,"Hangzhou Alibaba Advertising Co., Ltd.",19.42
-165.101.230.76:8080,http,ID,transparent,2004,,PT Anugerah Cimanuk Raya,20.04
-103.247.22.88:4317,http,ID,transparent,2090,,PT wifian Solution,20.9
-103.183.8.183:8080,http,ID,transparent,2893,,PT Cepat Multi Data,28.93
-202.21.124.132:1011,http,MN,transparent,2926,,Mobinet LLC,29.26
-58.214.243.91:80,http,CN,transparent,2939,,Chinanet,29.39
+16.163.88.228:80,http,HK,elite,386,,"Amazon.com, Inc.",-1.14
+144.124.251.24:10526,http,NL,elite,487,,Servers Tech Fzco,-0.13
+144.124.251.24:10857,http,NL,elite,503,,Servers Tech Fzco,0.03
+144.124.251.24:11205,http,NL,elite,525,,Servers Tech Fzco,0.25
+153.0.171.163:8085,http,CN,elite,1134,,China Unicom Hainan Province Network,6.34
+47.254.36.213:5060,http,US,elite,2095,,Alibaba Cloud LLC,15.95
+8.211.51.115:8080,http,DE,elite,2218,,"Alibaba (US) Technology Co., Ltd.",17.18
+8.211.194.85:31433,http,GB,elite,2219,,"Alibaba (US) Technology Co., Ltd.",17.19
+8.211.49.86:119,http,DE,elite,2226,,"Alibaba (US) Technology Co., Ltd.",17.26
+8.221.138.111:8083,http,JP,elite,2293,,"Alibaba (US) Technology Co., Ltd.",17.93
+8.213.128.6:4444,http,KR,elite,2331,,"Alibaba (US) Technology Co., Ltd.",18.31
+8.220.204.215:8080,http,KR,elite,2333,,"Alibaba (US) Technology Co., Ltd.",18.33
+8.213.128.6:4145,http,KR,elite,2334,,"Alibaba (US) Technology Co., Ltd.",18.34
+8.213.128.6:8989,http,KR,elite,2334,,"Alibaba (US) Technology Co., Ltd.",18.34
+8.220.204.215:808,http,KR,elite,2337,,"Alibaba (US) Technology Co., Ltd.",18.37
+47.91.121.127:9080,http,AE,elite,2351,,Alibaba Cloud LLC,18.51
+47.91.120.190:8888,http,AE,elite,2358,,Alibaba Cloud LLC,18.58
+47.91.120.190:5060,http,AE,elite,2359,,Alibaba Cloud LLC,18.59
+47.238.130.212:9080,http,HK,elite,2369,,Alibaba Cloud LLC,18.69
+47.238.130.212:80,http,HK,elite,2372,,Alibaba Cloud LLC,18.72
+47.237.2.245:1080,http,SG,elite,2415,,"Alibaba (US) Technology Co., Ltd.",19.15
+47.250.177.202:6379,http,MY,elite,2419,,"Alibaba (US) Technology Co., Ltd.",19.19
+47.250.177.202:4145,http,MY,elite,2423,,"Alibaba (US) Technology Co., Ltd.",19.23
+149.129.255.179:6666,http,ID,elite,2443,,Alibaba.com Singapore E-Commerce Private,19.43
+8.215.3.250:264,http,ID,elite,2445,,Alibaba Cloud (Singapore) Private Limite,19.45
+101.132.248.7:1337,http,CN,elite,2448,,Hangzhou Alibaba Advertising Co,19.48
+8.138.133.207:3128,http,CN,elite,2452,,"Hangzhou Alibaba Advertising Co., Ltd.",19.52
+8.220.136.174:80,http,PH,elite,2457,,"Alibaba (US) Technology Co., Ltd.",19.57
+8.213.222.247:312,http,TH,elite,2464,,"Alibaba (US) Technology Co., Ltd.",19.64
+8.213.222.247:8008,http,TH,elite,2464,,"Alibaba (US) Technology Co., Ltd.",19.64
+8.213.215.187:8888,http,TH,elite,2468,,"Alibaba (US) Technology Co., Ltd.",19.68
+47.121.133.212:4006,http,CN,elite,2476,,"Hangzhou Alibaba Advertising Co., Ltd.",19.76
+8.148.24.225:4000,http,CN,elite,2483,,"Hangzhou Alibaba Advertising Co., Ltd.",19.83
+47.92.152.43:8888,http,CN,elite,2492,,Hangzhou Alibaba Advertising Co,19.92
+8.148.23.165:21025,http,CN,elite,2493,,"Hangzhou Alibaba Advertising Co., Ltd.",19.93
+39.104.23.154:6379,http,CN,elite,2495,,Hangzhou Alibaba Advertising Co,19.95
+47.112.11.170:8123,http,CN,elite,2497,,Addresses CNNIC,19.97
+47.108.159.113:8080,http,CN,elite,2555,,Hangzhou Alibaba Advertising Co,20.55
+47.115.221.69:9090,http,CN,transparent,2170,,Addresses CNNIC,21.7
+154.19.39.111:8080,http,ID,transparent,2191,,PT Lintas Network Solusi,21.91
+24.152.58.101:999,http,CO,transparent,2779,,Atenea Telecomunicaciones,27.79
+186.101.251.197:8080,http,EC,transparent,2816,,Telconet S.A,28.16
